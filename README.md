@@ -1,6 +1,9 @@
 # PhD Project Folder Template for the Life Sciences
 
-This repository contains a template folder structure for a PhD project in the life sciences, a one-stop-shop for an organised approach.
+This repository contains 
+
+1. A template folder structure for a PhD project in the life sciences, a one-stop-shop for an organised approach.
+2. A collection of all the lower-level templates (zipped folder structures and READMEs)
 
 ## Aim
 
@@ -21,6 +24,7 @@ Another scheme is this:
     YYYY-MM-DD_CONTENT, where YYYY-MM-DD is supposed to be resolved to the relevant date in ISO 8601 format.
 
 The "FolderStructure.zip" file is structured into 5 parts:
+
 	1. Documents		Where all the documents go that you collect or need at this high level.
 	2. Projects		Where the research happens (apart from reviewing literature)
 	3. Presentations	Presentations of slides and posters are prepared here
@@ -134,7 +138,19 @@ PhD/
 ## For this structure
 https://github.com/HeidiSeibold/research-project-template
 
-# Research Data Management (RDM) Starters and Best Practices
+## Research Data Management (RDM) Starters and Best Practices
+
+
+# This Project
+
+Git address
+
+## Contributers
+
+### Yasmin
+
+### Jeanne
+
 
 
 
