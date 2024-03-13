@@ -23,6 +23,8 @@ Few folders are either named with the scheme
 Another scheme is this:
     YYYY-MM-DD_CONTENT, where YYYY-MM-DD is supposed to be resolved to the relevant date in ISO 8601 format.
 
+Experiment can also mean method for you.
+
 The "FolderStructure.zip" file is structured into 5 parts:
 
 	1. Documents		Where all the documents go that you collect or need at this high level.
@@ -63,9 +65,11 @@ PhD/
    │   │   │   └── 02_Data/ 		<- 
    │   │   │   │   └── 01_Raw/ 		<- 
    │   │   │   │   └── 02_Processed/ 	<- 
-   │   │   │   └── 03_Code/ 		<- 
+   │   │   │   │   └── Data_README.txt 	<- ------------------------------------------ new
+   │   │   │   └── 03_Code/ 		<- add best practice cheat sheet? Like, how to comment...
    │   │   │   └── 04_Results/ 		<- 
    │   │   │   └── ExperimentX_README.txt <- 
+   │   │   └── ExperimentX.zip 		<-  ------------------------------------------ new
    │   │   └── ProjextX_README/ 	<- 
    │   └── ProjextX.zip  		<-  ------------------------------------------ new
    │   └── Project_README.txt 		<- 
@@ -112,6 +116,28 @@ PhD/
    └── misc				<-             miscellaneous files that don't fit elsewhere ??
 ```
 
+## Using the PhD.zip template
+
+### Download
+
+### Unzip
+
+### Edit READMEs
+
+### Adjust to your needs
+
+### Add your files
+
+
+## Using other templates
+
+### Download
+
+### Unzip
+
+### Edit READMEs
+
+### Adjust to your needs
 
 
 
@@ -131,25 +157,23 @@ PhD/
 
 
 
+## References
 
-
-# References
-
-## For this structure
+### For this structure
 https://github.com/HeidiSeibold/research-project-template
 
-## Research Data Management (RDM) Starters and Best Practices
+### Research Data Management (RDM) Starters and Best Practices
 
 
-# This Project
+## This Project
 
 Git address
 
-## Contributers
+### Contributers
 
-### Yasmin
+#### Yasmin
 
-### Jeanne
+#### Jeanne
 
 
 
