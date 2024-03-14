@@ -31,25 +31,25 @@ Another scheme is this:
 Experiment can also mean method for you.
 
 The "FolderStructure.zip" file is structured into 5 parts:
-| Part         | Purpose / Content   |
-|--------------|-----------|
-| 1. Documents | Where all the documents go that you collect or need at this high level.      |
-| 2. Projects  | Where the research happens (apart from reviewing literature) |
-| 3. Presentations | Presentations of slides and posters are prepared here |
-| 4. Manuscripts | Paper writing and figure composition |
-| 5. Thesis | Thesis writing and figure composition |	
+| Part         		| Purpose / Content   |
+|--------------		|-----------|
+| 1. Documents 		| Where all the documents go that you collect or need at this high level.      |
+| 2. Projects  		| Where the research happens (apart from reviewing literature) |
+| 3. Presentations 	| Presentations of slides and posters are prepared here |
+| 4. Manuscripts 	| Paper writing and figure composition |
+| 5. Thesis 		| Thesis writing and figure composition |	
 
 Embedded in this folder structure, at the appropriate places, you can find zipped template folders and other templates, namely the following:
 
-| Template    | Purpose / Content | Where to find within the big structure (short) |
-| -------- | ------- | ------- |
-| ReadPaperTemplate.pdf  | Structured paper reading   | 01/03/  |
-| ExperimentX.zip |     | 02/ProjectX/  |
-| ProjextX.zip     |    | 02/  |
-| YYYY-MM-DD_Presentation.zip |   | 03/ |
-| ManuscriptX.zip  |   |  04/ |
-| HowToWriteNatureAbstracts.pdf  |   | 04/ |
-| HowToWriteFigureCaptions.pdf |   | 04/ |
+| Template    			| Purpose / Content 		| Where (short) |
+| -------- 			| ------- 			| ------- |
+| ReadPaperTemplate.pdf  	| Structured paper reading.  	| PhD/01/03/  |
+| ExperimentX.zip 		| Folder structure for a new experiment / method. Incl. folders for protocols, data, code, results.| PhD/02/ProjectX/  |
+| ProjextX.zip    		| Folder structure for a new project. Incl. experimentX subfolder.			| PhD/02/  |
+| YYYY-MM-DD_Presentation.zip 	| Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders.  | PhD/03/ |
+| ManuscriptX.zip  		| Folder structure for a new manuscript. Incl. figures, drafts, final subfolders  |  PhD/04/ |
+| HowToWriteNatureAbstracts.pdf	| Illustrates components and advice on writing a paper abstract.  | PhD/04/ |
+| HowToWriteFigureCaptions.pdf	| Some best practice tips and examples on scientific figure caption writing.  | PhD/04/ |
 		
 
 Imagine to flip open the folder tree, this is the structure you will find within:
