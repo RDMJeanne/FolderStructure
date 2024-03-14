@@ -31,12 +31,14 @@ Another scheme is this:
 Experiment can also mean method for you.
 
 The "FolderStructure.zip" file is structured into 5 parts:
-
-1. Documents		Where all the documents go that you collect or need at this high level.
-2. Projects		Where the research happens (apart from reviewing literature)
-3. Presentations	Presentations of slides and posters are prepared here
-4. Manuscripts		Paper writing and figure composition
-5. Thesis		Thesis writing and figure composition
+| Part         | Purpose / Content   |
+|--------------|-----------|
+| 1. Documents | Where all the documents go that you collect or need at this high level.      |
+| 2. Projects  | Where the research happens (apart from reviewing literature) |
+| 3. Presentations | Presentations of slides and posters are prepared here |
+| 4. Manuscripts | Paper writing and figure composition |
+| 5. Thesis | Thesis writing and figure composition |	
+		
 
 Imagine to flip open the folder tree, this is the structure you will find within:
 
