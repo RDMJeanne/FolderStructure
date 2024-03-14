@@ -38,6 +38,18 @@ The "FolderStructure.zip" file is structured into 5 parts:
 | 3. Presentations | Presentations of slides and posters are prepared here |
 | 4. Manuscripts | Paper writing and figure composition |
 | 5. Thesis | Thesis writing and figure composition |	
+
+Embedded in this folder structure, at the appropriate places, you can find zipped template folders and other templates, namely the following:
+
+| Template    | Purpose / Content | Where to find within the big structure (short) |
+| -------- | ------- | ------- |
+| ReadPaperTemplate.pdf  | Structured paper reading   | 01/03/  |
+| ExperimentX.zip |     | 02/ProjectX/  |
+| ProjextX.zip     |    | 02/  |
+| YYYY-MM-DD_Presentation.zip |   | 03/ |
+| ManuscriptX.zip  |   |  04/ |
+| HowToWriteNatureAbstracts.pdf  |   | 04/ |
+| HowToWriteFigureCaptions.pdf |   | 04/ |
 		
 
 Imagine to flip open the folder tree, this is the structure you will find within:
@@ -67,7 +79,7 @@ PhD/
    │   └── Collaborations/ 		<- 
    │   │   └── zzz_from-joe/ 		<- 
    │   └── ProjextX/			<- 
-   │   │   └── YYYYMMDD_ExperimentX/ 	<- 
+   │   │   └── YYYY-MM-DD_ExperimentX/ 	<- 
    │   │   │   └── 01_Protocols/ 	<- 
    │   │   │   └── 02_Data/ 		<- 
    │   │   │   │   └── 01_Raw/ 		<- 
@@ -111,6 +123,7 @@ PhD/
    │   │   └──03_Final/ 		<- 
    │   ├── ManuscriptX.zip 		<-  ------------------------------------------ new
    │   ├── HowToWriteNatureAbstracts.pdf <-   ------------------------------------------ new
+   │   ├── HowToWriteFigureCaptions.pdf <-   ------------------------------------------ new
    │   ├── Manuscript_README.txt 	<- 
 
    ├── 05_Thesis/			<- 
@@ -175,6 +188,7 @@ https://github.com/HeidiSeibold/research-project-template
 ## This Project
 
 Git address
+Paper DOI
 
 ### Contributers
 
@@ -182,7 +196,9 @@ Git address
 
 #### Jeanne
 
-
+### Feedback
+Is very welcome!
+As are use cases - show us how you use it!
 
 
 
