@@ -10,6 +10,11 @@ This repository contains
 This folder structure is intended to support individual research data management related to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. 
 Additionally, we attempted to include as much best practice and advice implicitly and explicitly to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at section Ref-RDM.
 
+* comprehensive
+* self-explanatory
+* supporting best practices with templates and guidance
+* modular & flexible
+
 Each folder in the structure contains a guide README that explains what this folder is about and the recommended use. Additionally, each folder holds a README that is ready to be filled with your own metadata, as appropriate for the respective folder.
 
 Naturally, you will not need all of the provided parts and maybe need something else in addition. Feel free to modify the structure to your needs, once you copied it to your working station (see section X).
@@ -27,11 +32,11 @@ Experiment can also mean method for you.
 
 The "FolderStructure.zip" file is structured into 5 parts:
 
-	1. Documents		Where all the documents go that you collect or need at this high level.
-	2. Projects		Where the research happens (apart from reviewing literature)
-	3. Presentations	Presentations of slides and posters are prepared here
-	4. Manuscripts		Paper writing and figure composition
-	5. Thesis		Thesis writing and figure composition
+1. Documents		Where all the documents go that you collect or need at this high level.
+2. Projects		Where the research happens (apart from reviewing literature)
+3. Presentations	Presentations of slides and posters are prepared here
+4. Manuscripts		Paper writing and figure composition
+5. Thesis		Thesis writing and figure composition
 
 Imagine to flip open the folder tree, this is the structure you will find within:
 
