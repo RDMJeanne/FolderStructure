@@ -19,14 +19,41 @@ Each folder in the structure contains a guide README that explains what this fol
 
 Naturally, you will not need all of the provided parts and maybe need something else in addition. Feel free to modify the structure to your needs, once you copied it to your working station (see section X).
 
+## Features
+
+1. Template folder structure for a PhD project in the life sciences (PhD.zip)
+	* Folder and file names following best practices
+	* Guidance READMEs with explanations and tips, how the structure is intended to be used and how to implement best practices at the respective level
+	* Metadata READMEs ready for your input of metadata. These try to capture as many options as possible, thus working as a reminder on which metadata to collect where. Additionally, you can use them as templates for more folders or in other contexts (e.g., in an ELN).
+	* HowTos as a starting point for your scientific reading and writing journey.
+	* zzz folders: The suggested place for files that are older version, but are not ready to be deleted. When the project ends, you can delete these folders, since you probably did not look into them again.
+	* zzz-from-joe folder: For incoming files from collaborators that do not fit your naming conventions. When you use an incoming file, make a copy, change the name, and document that you did this.
+
+2. Collection of all the lower-level templates
+	* Allows to quickly set up a standardised folder for your next project / experiment / presentation, etc.
+	* Can be used outside of our large folder structure
+
+
 ## Structure
 
 Most folders are labelled with the following scheme:
-    ##_CONTENT, where ## is a left-padded index used to sort the folders according to importance / work flow, and CONTENT is a single word indicating the content.
+* ##_<CONTENT>, 
+	* where ## is a left-padded index used to sort the folders according to importance / work flow, 
+	* and <CONTENT> is a single word indicating the content.
+
+The READMEs follow this scheme:
+* <TYPE>_<CONTENT>_README,
+	* where <TYPE> is either resolved to G for Guidance or M for Metadata, 
+	* and <CONTENT> is a single word indicating the content of the folder it resides in.
+
 Few folders are either named with the scheme
-    YYYY_Year#, where the Y's are supposed to be resolved to an actual year, with the # as the year count relative to starting the PhD.
+* YYYY_Year#, 
+	* where the Y's are supposed to be resolved to an actual year, 
+	* with the # as the year count relative to starting the PhD.
+
 Another scheme is this:
-    YYYY-MM-DD_CONTENT, where YYYY-MM-DD is supposed to be resolved to the relevant date in ISO 8601 format.
+* YYYY-MM-DD_<CONTENT>, 
+	* where YYYY-MM-DD is supposed to be resolved to the relevant date in ISO 8601 format.
 
 Experiment can also mean method for you.
 
@@ -50,6 +77,7 @@ Embedded in this folder structure, at the appropriate places, you can find zippe
 | ManuscriptX.zip  		| Folder structure for a new manuscript. Incl. figures, drafts, final subfolders  |  PhD/04/ |
 | HowToWriteNatureAbstracts.pdf	| Illustrates components and advice on writing a paper abstract.  | PhD/04/ |
 | HowToWriteFigureCaptions.pdf	| Some best practice tips and examples on scientific figure caption writing.  | PhD/04/ |
+These files are also provided separate from the large structure in the Templates folder of this git repository.
 		
 
 Imagine to flip open the folder tree, this is the structure you will find within:
@@ -70,8 +98,8 @@ PhD/
    │   │   └── ReadPaperTemplate.pdf	<-   ------------------------------------------ new
    │   │   └── ReadPaper_README.txt	<-   ------------------------------------------ new
    │   └── 04_Courses/ 			<- 
-   │   │   └── YYY1/ 			<- 
-   │   │   └── YYY2/ 			<- 
+   │   │   └── YYYY_Year1/ 		<- 
+   │   │   └── YYYY_Year2/ 		<- 
    │   └── Documents_README.txt 	<- 
 
    ├── 02_Projects/			<- 
@@ -180,15 +208,16 @@ PhD/
 ## References
 
 ### For this structure
-https://github.com/HeidiSeibold/research-project-template
+* https://github.com/HeidiSeibold/research-project-template
+* gin tonic
 
 ### Research Data Management (RDM) Starters and Best Practices
 
 
 ## This Project
 
-Git address
-Paper DOI
+* Git address
+* Paper DOI
 
 ### Contributers
 
@@ -197,8 +226,9 @@ Paper DOI
 #### Jeanne
 
 ### Feedback
-Is very welcome!
-As are use cases - show us how you use it!
+
+* Is very welcome!
+* As are use cases - show us how you use it!
 
 
 
