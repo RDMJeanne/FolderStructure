@@ -10,7 +10,7 @@ This repository contains
 ## Aim
 
 This folder structure is intended to support individual **research data management related** to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. 
-Additionally, we attempted to include as much **best practice and advice implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at section **Ref-RDM**.
+Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at section **Ref-RDM**.
 
 The folder structure aims to be:
 
@@ -34,9 +34,13 @@ Naturally, you will not need all of the provided parts and maybe need something 
 	* **zzz folders**: The suggested place for files that are older version, but are not ready to be deleted. When the project ends, you can delete these folders, since you probably did not look into them again.
 	* **zzz-from-joe folder**: For incoming files from collaborators that do not fit your naming conventions. When you use an incoming file, make a copy, change the name, and document that you did this.
 
-2. Collection of all the lower-level templates
+2. Collection of all the lower-level **templates**
 	* Allows to quickly set up a standardised folder for your next project / experiment / presentation, etc.
 	* Can be used outside of our large folder structure
+
+3. Collection of Best Practice **Recommendations**
+	* The recommendations are distributed onto guide READMEs embedded in the structure. 
+	* Additionally, a collection file serves as overview for quick reference.
 
 
 ## Structure
@@ -144,6 +148,7 @@ PhD/
 │   │   │   │   ├── 02_Processed/
 │   │   │   │   └── M_Data_README.md
 │   │   │   ├── 03_Code/
+│   │   │   │   └── G_Code_README.md
 │   │   │   ├── 04_Results/
 │   │   │   └── M_ExperimentX_README.md
 │   │   └── ExperimentX.zip
@@ -191,88 +196,6 @@ PhD/
 └── misc
 ```
 
-
-```
-PhD/
-   ├── G_PhD_README.md				<- 	
-
-   ├── 01_Documents/				<- Documents folder, further information in G_Documents_README.md 
-   │   └── 01_Personal/			 
-   │   └── 02_Administrative/		 
-   │   │   └── 01_DMP/			
-   │   │   │   └── 01_Policies/ 
-   │   │   │   └── 02_Examples/  
-   │   │   │   └── G_DMP_README.md 
-   │   │   └── 02_Grants/ 		 
-   │   └── 03_Literature/ 		
-   │   │   └── ReadPaperTemplate.pdf	<-   ------------------------------------------ new
-   │   │   └── ReadPaper_README.md		<-   ------------------------------------------ new
-   │   └── 04_Courses/ 			
-   │   │   └── YYYY_Year1/ 		 
-   │   │   └── YYYY_Year2/ 		 
-   │   └── G_Documents_README.md 	
-
-   ├── 02_Projects/					<- 
-   │   ├── 01_Protocols/ 		 
-   │   └── Collaborations/ 		 
-   │   │   └── zzz_from-joe/ 		 
-   │   └── ProjextX/			 
-   │   │   └── YYYY-MM-DD_ExperimentX/ 	 
-   │   │   │   └── 01_Protocols/ 	 
-   │   │   │   └── 02_Data/ 		 
-   │   │   │   │   └── 01_Raw/ 		 
-   │   │   │   │   └── 02_Processed/ 	 
-   │   │   │   │   └── M_Data_README.md 	<- ------------------------------------------ new
-   │   │   │   └── 03_Code/ 		<- add best practice cheat sheet? Like, how to comment...
-   │   │   │   └── 04_Results/ 		 
-   │   │   │   └── M_ExperimentX_README.md 
-   │   │   └── ExperimentX.zip 		<-  ------------------------------------------ new
-   │   │   └── M_ProjextX_README.md 	
-   │   └── ProjextX.zip  		<-  ------------------------------------------ new
-   │   └── G_Project_README.md 		
-
-   ├── 03_Presentations/			<- 
-   │   ├── 01_LabMeetings/  			
-   │   │   └── YYYY-MM-DD_Presentation/  
-   │   │   │   └── 01_Figures/ 		
-   │   │   │   └── 02_OtherResources/ 	 
-   │   │   │   └── zzz/ 		
-   │   └── 02_Conferences/ 		 
-   │   │   └── YYYY-MM-DD_Poster/ 	 
-   │   │   │   └── 01_Figures/ 		 
-   │   │   │   └── 02_OtherResources/ 	 
-   │   │   │   └── zzz/ 		
-   │   └── 03_Retreats/    		
-   │   └── 04_Illustrations/   	 
-   │   │   └── 01_Foreign/ 		 
-   │   │   └── 02_Own/ 			 
-   │   └── YYYY-MM-DD_Presentation.zip 	<-    ------------------------------------------ new
-   │   └── M_Presentation_Metadata.md
-   │   └── G_Presentations_README.md	 
-
-   ├── 04_Manuscripts/			<- 
-   │   ├── ManuscriptX/			 
-   │   │   └──01_Figures/ 		 
-   │   │   │   └── 01_Main/ 	 
-   │   │   │   └── 02_Supplementary/  
-   │   │   └──02_Drafts/		
-   │   │   │   └── zzz/  		 
-   │   │   └──03_Final/
-   │   │   └──04_Revision/		 
-   │   ├── ManuscriptX.zip 		<-  ------------------------------------------ new
-   │   ├── HowToWriteNatureAbstracts.pdf <-   ------------------------------------------ new
-   │   ├── HowToWriteFigureCaptions.pdf <-   ------------------------------------------ new
-   │   ├── G_Manuscript_README.md  
-
-   ├── 05_Thesis/			<- 
-   │   ├── 01_Figures/		 
-   │   ├── 02_Drafts/		 
-   │   │   └──zzz/ 			 
-   │   ├── 03_Final/		 
-   │   └── 04_Defense/		 
-   │   └── G_Thesis_README.md 
-   └── misc						<- miscellaneous files that don't fit elsewhere ??
-```
 (Tree was generated with [https://www.text-tree-generator.com/](https://www.text-tree-generator.com/))
 
 ## Using the PhD.zip and other templates
@@ -316,7 +239,7 @@ If you would like to achknowledge this project, you can cite as follows:
 ## References
 
 ### For this structure
-* Heidi Seibold (2022) Research Project Template. GitHub Repository. [https://github.com/HeidiSeibold/research-project-template](https://github.com/HeidiSeibold/research-project-template)
+* Seibold, Heidi (2022) Research Project Template. GitHub Repository. [https://github.com/HeidiSeibold/research-project-template](https://github.com/HeidiSeibold/research-project-template)
 * Colomb, Julien, Thorsten Arendt, Keisuke Sehara, and The Gin-Tonic team. 2021. “Towards a Standardized Research Folder Structure.” Generation Research. [https://doi.org/10.25815/WCY6-M233](https://doi.org/10.25815/WCY6-M233). Project website: [https://gin-tonic.netlify.app/standard/](https://gin-tonic.netlify.app/standard/)
 
 ### Research Data Management (RDM) Starters and Best Practices
