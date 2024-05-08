@@ -52,7 +52,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 ### Backups & Archiving
 
 
-### Code on GitHub: Get a DOI
+### Code on GitHub: Get a DOI from Zenodo
 
 [https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
 ](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
