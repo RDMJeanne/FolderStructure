@@ -77,7 +77,7 @@ The "PhD.zip" file is structured into 5 parts:
 | 1. Documents 		| Where all the documents go that you collect or need at this high level.      |
 | 2. Projects  		| Where the research happens (apart from reviewing literature) |
 | 3. Presentations 	| Presentations of slides and posters are prepared here |
-| 4. Manuscripts 	| Paper writing and figure composition |
+| 4. Publications 	| Paper writing and figure composition |
 | 5. Thesis 		| Thesis writing and figure composition |	
 
 ### Templates
@@ -137,10 +137,21 @@ PhD/
 │   └── G_Documents_README.md
 ├── 02_Projects/
 │   ├── 01_Protocols/
-│   │   └── G_Protocols_README.md
 │   ├── Collaborations/
+│   │   └── Collab_Overview.md
+│   │   └── 010_PARTNER_project/
+│   │   │   ├── 01_Protocols
+│   │   │   ├── 02_Data/
+│   │   │   │   ├── 01_Raw/
+│   │   │   │   ├── 02_Processed/
+│   │   │   │   └── M_Data_README.md
+│   │   │   ├── 03_Code/
+│   │   │   ├── 04_Results/
+│   │   │   └── M_PARTNER_project_README.md
+│   │   └── 000_PARTNER_project.zip
 │   │   └── zzz_from-joe/
 │   ├── ProjextX/
+│   │   ├── M_ProjextX_README.md
 │   │   ├── YYYY-MM-DD_ExperimentX/
 │   │   │   ├── 01_Protocols/
 │   │   │   ├── 02_Data/
@@ -148,12 +159,10 @@ PhD/
 │   │   │   │   ├── 02_Processed/
 │   │   │   │   └── M_Data_README.md
 │   │   │   ├── 03_Code/
-│   │   │   │   └── G_Code_README.md
 │   │   │   ├── 04_Results/
 │   │   │   └── M_ExperimentX_README.md
-│   │   └── ExperimentX.zip
+│   │   └── YYYY-MM-DD_ExperimentX.zip
 │   ├── G_Project_README.md
-│   ├── M_ProjextX_README.md
 │   └── ProjextX.zip
 ├── 03_Presentations/
 │   ├── 01_LabMeetings/
@@ -173,21 +182,40 @@ PhD/
 │   ├── G_Presentations_README.md
 │   ├── M_Presentation_Metadata.md
 │   └── YYYY-MM-DD_Presentation.zip
-├── 04_Manuscripts/
+├── 04_Publications/
 │   ├── ManuscriptX/
 │   │   ├── 01_Figures/
-│   │   │   ├── 01_Main/
-│   │   │   └── 02_Supplementary/
+│   │   │   ├── Fig1A/
+│   │   │   │   ├── Code/
+│   │   │   │   ├── Data/
+│   │   │   │   └── Fig1A_Caption.txt
+│   │   │   │   └── M_Fig1A_README.md
+│   │   │   ├── SFig1/
+│   │   │   │   ├── Code/
+│   │   │   │   ├── Data/
+│   │   │   │   └── SFig1_Caption.txt
+│   │   │   │   └── M_SFig1_README.md
+│   │   │   ├── zzz/
+│   │   │   ├── FigX.zip
+│   │   │   └── G_ManuscriptFigures_README.md
 │   │   ├── 02_Drafts/
 │   │   │   └── zzz/
 │   │   ├── 03_Final/
-│   │   └── 04_Revision/
-│   ├── G_Manuscript_README.md
+│   │   ├── 04_Revision/
+│   │   └── ManuscriptX_DataOverview.txt
+│   ├── G_Publications_README.md
 │   ├── HowToWriteFigureCaptions.pdf
 │   ├── HowToWriteNatureAbstracts.pdf
 │   └── ManuscriptX.zip
 ├── 05_Thesis/
 │   ├── 01_Figures/
+│   │   ├── Fig1/
+│   │   │   ├── Code/
+│   │   │   ├── Data/
+│   │   │   └── Fig1_Caption.txt
+│   │   │   └── M_Fig1_README.md
+│   │   ├── zzz/
+│   │   └── FigX.zip
 │   ├── 02_Drafts/
 │   │   └── zzz/
 │   ├── 03_Final/

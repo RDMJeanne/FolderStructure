@@ -1,4 +1,4 @@
-2024-05-07
+2024-06-10
 
 # Guide README of 'PhD' folder
 
@@ -6,35 +6,94 @@
 
 In here you find the following parts / folders:
 
+```
+PhD/
+├── G_PhD_README.md
+├── 01_Documents/
+├── 02_Projects/
+├── 03_Presentations/
+├── 04_Publications/
+└── 05_Thesis/
+```
+
+
 | Part         		| Purpose / Content   |
 |--------------		|-----------|
-| 1. Documents 		| Where all the documents go that you collect or need at this high level. |
+| 1. Documents 		| Where all the documents go that you collect or need at this high level. This includes administrative, notes, literature, and course-related docs.|
 | 2. Projects  		| Where the research happens (apart from reviewing literature), i.e., the place for data, analyses, code, protocols, etc. |
 | 3. Presentations 	| Presentations of slides and posters are prepared here. |
-| 4. Manuscripts 	| Paper writing and figure composition. |
+| 4. Publications 	| Paper writing and figure composition as well as preparation of all other to-be-published content. |
 | 5. Thesis 		| Thesis writing and figure composition. |
 
 A full overview of the contained folders and files can be found in the topmost README.md. 
 For more detailed information on folder contents and according best practices, have a look at the respective guide README.
 
 
-Feel free to adapt this structure to your specific needs and workflow.
+Feel free to adapt the suggested folder structure to your specific needs and workflow.
 
 
 ## Best Practice Recommendations
 
-### File Naming
+### File and Folder Naming
 
-### Folder Naming
+Make sure to label your files and folders with meaningful names. Names should be:
+* short / concise
+* descriptive
+* specific
+* consistently used
+* human- & machine-readable
+* consisting only of alphanumric characters (no special characters like parentheses, umlauts, dolons, spaces, etc.)
+* documented
+
+If you include a **date**, make sure to follow ISO 8601, i.e., year first, then month, then day = YYYYMMDD or YYYY-MM-DD; to ensure chronological sorting.
+
+If you include any **numbers** (e.g., as an ID), consider left-padding / leading zeroes. I.e., start numbering with 001 if you expect up to 999 files.
+
+As an alternative/complementary **approach** to file and folder naming, you can consider the "Johnny Decimal" system of structuring files in folders: [https://johnnydecimal.com/](https://johnnydecimal.com/)
+
+**More information**: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
 
 
 ### Get an ORCID
 
+As a researcher, it is best practice (and increasingly demanded by publishers) to have an ORCID. This "Open Researcher and Contributor ID"  brings three main benefits: 
+* The ID remains persistent if you change your affiliation, mail address, or even name.
+* Your ORCID website lists your publications (automatically collected via DataCite) and you can add your CV and more information. 
+* The ORCID login can be used for many research-related websites.
+
+**More information**: [https://orcid.org/](https://orcid.org/)
+
 
 ### Backups
 
+First, find out about the backup povisions of your exmployer. Often there is a server space for research with regular backups. Depending on which data is allowed to be stored there, you need to worry less about backups.
+
+A good backup strategy (also if you have to implement it yourself) follows the 3-2-1 rule:
+* Have at least **3 copies** of each file
+* Have at least **2** of your three copies **on different storage media** (e.g., an external drive and a server)
+* Have at least **1** of your three copies **in a physically different location** / building (geo-redundancy).
+
+**More information**: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Backup](https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Backup)
+
+### Data Management Plan
+
+The ideal project start also comes with the start of a data management plan (DMP). While you obviously cannot know all the details yet, it can be very helpful to find a suitable template and fill in as much information as possible. 
+Note that a DMP can serve as one way of documenting your RDM measures, like file naming schemes, etc.
+Throughout your progress, revisit the plan often for guidance and to update it when your data management strategies change.
+
+**More information**:
+* [https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1)
+* Practical Guide to [...] RDM—Extended Ed. (incl. DMP criteria): [https://doi.org/10.5281/zenodo.4915861](https://doi.org/10.5281/zenodo.4915861) 
+
+
 
 ## Further Reading
+
+For your PhD work, we recommend the following books:
+* Turabian, Kate L. (2018), Booth, Wayne C.; Colomb, Gregory G.; Williams, Joseph M.; Bizup, Joseph; FitzGerald, William T.; University of Chicago Press Editorial Staff (eds.), **A Manual for Writers of Research Papers, Theses, and Dissertations** (9th ed.), Chicago: University of Chicago Press, ISBN 978-0226430577. Website: [https://www.chicagomanualofstyle.org/turabian.html](https://www.chicagomanualofstyle.org/turabian.html)
+* Strunk, William Jr.; White, E. B. (2009). **The Elements of Style** (5th ed.). Boston: Allyn and Bacon. p. xiii. ISBN 978-0-205-31342-6.
+* Bolker, Joan. (1998) **Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing Your Doctoral Thesis**. First Edition. New York: Owl Books.
+
 
 
 

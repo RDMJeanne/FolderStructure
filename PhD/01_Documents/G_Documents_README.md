@@ -27,11 +27,11 @@ In here you find the following parts / folders:
 
 | Part         		| Purpose / Content   |
 |----------		|-----------|
-| 1. Personal 		| |
-| 2. Administrative | E.g., contracts, invoices, travel applications, ... |
-| 3. Notes 	| |
-| 4. Literature 		| The place to store papers related to your work. Although your lit management tool might provide cloud storage, this can have too little space and/or suffer when you migrate between operating environments. |
-| 5. Courses 	| Should be subdivided for individual courses, for each course there might be a slide deck, your notes, own presentations, etc. |
+| 1. Personal 		| Personal files related to your work (which do not fit any other category).|
+| 2. Administrative | Contains files related to contracts, invoices, travel applications, ... Also the place for your PhD's data management plan (DMP) and related information. |
+| 3. Notes 	| The place for your own research notes, as well as meeting notes with colleagues or your committee. |
+| 4. Literature 		| The place to store papers related to your work. Although your literature management tool might provide cloud storage, this can have too little space and/or suffer when you migrate between operating environments. |
+| 5. Courses 	| Should be subdivided for individual courses; for each course there might be a slide deck, your notes, own presentations, etc. |
 
 
 Feel free to adapt this structure to your specific needs and workflow.
@@ -44,7 +44,8 @@ Feel free to adapt this structure to your specific needs and workflow.
 
 
 ### Keeping notes
-* meeting notes
+* meeting notes and minutes
+* note taking methods / mindmapping, templates
 * organizing
 
 
