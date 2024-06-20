@@ -12,30 +12,27 @@ Alternative to this guide?
 In here you find the following parts / folders:
 
 ```
-FOLDER/
-├── Content/
+03_Code/
+└── G_Code_README.md
 
 ```
-
-
-| Part         		| Purpose / Content   |
-|--------------		|-----------|
-| 1. Documents 		| Note |
-| 2. Projects  		| Note |
-| 3. Presentations 	| Note |
-| 4. Manuscripts 	| Note |
-| 5. Thesis 		| Note |
 
 Feel free to adapt this structure to your specific needs and workflow.
 
 
 ## Best Practice Recommendations
 
+### Commenting
 
+
+### ChatBot for Synopsis
+
+
+### DOI from Zenodo
 
 
 ## Further Reading
-
+* scientific programming
 
 
 _____

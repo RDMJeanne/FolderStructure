@@ -13,7 +13,7 @@ In here you find the following parts / folders:
 ├── Collaborations/
 │   └── Collab_Overview.md
 │   └── 010_PARTNER_project/
-│   │   ├── 01_Protocols
+│   │   ├── 01_Protocols/
 │   │   ├── 02_Data/
 │   │   │   ├── 01_Raw/
 │   │   │   ├── 02_Processed/
@@ -23,7 +23,7 @@ In here you find the following parts / folders:
 │   │   └── M_PARTNER_project_README.md
 │   └── 000_PARTNER_project.zip
 │   └── zzz_from-joe/
-├── ProjextX/
+├── ProjectX/
 │   ├── M_ProjextX_README.md
 │   ├── YYYY-MM-DD_ExperimentX/
 │   │   ├── 01_Protocols/
@@ -36,7 +36,7 @@ In here you find the following parts / folders:
 │   │   └── M_ExperimentX_README.md
 │   └── YYYY-MM-DD_ExperimentX.zip
 ├── G_Project_README.md
-└── ProjextX.zip
+└── ProjectX.zip
 
 ```
 

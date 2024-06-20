@@ -13,15 +13,6 @@ In here you find the following parts / folders:
 
 ```
 
-
-| Part         		| Purpose / Content   |
-|--------------		|-----------|
-| 1. Documents 		| Note |
-| 2. Projects  		| Note |
-| 3. Presentations 	| Note |
-| 4. Manuscripts 	| Note |
-| 5. Thesis 		| Note |
-
 Feel free to adapt this structure to your specific needs and workflow.
 
 

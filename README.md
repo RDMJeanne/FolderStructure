@@ -138,9 +138,9 @@ PhD/
 ├── 02_Projects/
 │   ├── 01_Protocols/
 │   ├── Collaborations/
-│   │   └── Collab_Overview.md
-│   │   └── 010_PARTNER_project/
-│   │   │   ├── 01_Protocols
+│   │   ├── Collab_Overview.md
+│   │   ├── 010_PARTNER_project/
+│   │   │   ├── 01_Protocols/
 │   │   │   ├── 02_Data/
 │   │   │   │   ├── 01_Raw/
 │   │   │   │   ├── 02_Processed/
@@ -148,9 +148,9 @@ PhD/
 │   │   │   ├── 03_Code/
 │   │   │   ├── 04_Results/
 │   │   │   └── M_PARTNER_project_README.md
-│   │   └── 000_PARTNER_project.zip
+│   │   ├── 000_PARTNER_project.zip
 │   │   └── zzz_from-joe/
-│   ├── ProjextX/
+│   ├── ProjectX/
 │   │   ├── M_ProjextX_README.md
 │   │   ├── YYYY-MM-DD_ExperimentX/
 │   │   │   ├── 01_Protocols/
@@ -163,7 +163,7 @@ PhD/
 │   │   │   └── M_ExperimentX_README.md
 │   │   └── YYYY-MM-DD_ExperimentX.zip
 │   ├── G_Project_README.md
-│   └── ProjextX.zip
+│   └── ProjectX.zip
 ├── 03_Presentations/
 │   ├── 01_LabMeetings/
 │   │   └── YYYY-MM-DD_Presentation/
@@ -188,12 +188,12 @@ PhD/
 │   │   │   ├── Fig1A/
 │   │   │   │   ├── Code/
 │   │   │   │   ├── Data/
-│   │   │   │   └── Fig1A_Caption.txt
+│   │   │   │   ├── Fig1A_Caption.txt
 │   │   │   │   └── M_Fig1A_README.md
 │   │   │   ├── SFig1/
 │   │   │   │   ├── Code/
 │   │   │   │   ├── Data/
-│   │   │   │   └── SFig1_Caption.txt
+│   │   │   │   ├── SFig1_Caption.txt
 │   │   │   │   └── M_SFig1_README.md
 │   │   │   ├── zzz/
 │   │   │   ├── FigX.zip
@@ -212,7 +212,7 @@ PhD/
 │   │   ├── Fig1/
 │   │   │   ├── Code/
 │   │   │   ├── Data/
-│   │   │   └── Fig1_Caption.txt
+│   │   │   ├── Fig1_Caption.txt
 │   │   │   └── M_Fig1_README.md
 │   │   ├── zzz/
 │   │   └── FigX.zip
@@ -221,7 +221,7 @@ PhD/
 │   ├── 03_Final/
 │   ├── 04_Defense/
 │   └── G_Thesis_README.md
-└── misc
+└── misc/
 ```
 
 (Tree was generated with [https://www.text-tree-generator.com/](https://www.text-tree-generator.com/))

@@ -27,11 +27,11 @@ In here you find the following parts / folders:
 
 | Part         		| Purpose / Content   |
 |--------------		|-----------|
-| 1. Documents 		| Note |
-| 2. Projects  		| Note |
-| 3. Presentations 	| Note |
-| 4. Manuscripts 	| Note |
-| 5. Thesis 		| Note |
+| 1. ManuscriptX 		| Note |
+| 1.1. Figures  		| Note |
+| 1.2. Drafts 	| Note |
+| 1.3. Final 	| Note |
+| 1.4. Revision 		| Note |
 
 Feel free to adapt this structure to your specific needs and workflow.
 
