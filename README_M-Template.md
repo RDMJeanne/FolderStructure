@@ -22,7 +22,7 @@ By: NAME
 | Column 1  | Column 2  |
 |:----------|:----------|
 | Name      | Name    |
-| ORCID     | ####-####-####    |
+| ORCID     | ####-####-####-####   |
 | Cell 1    | Cell 2    |
 | Cell 1    | Cell 2    |
 

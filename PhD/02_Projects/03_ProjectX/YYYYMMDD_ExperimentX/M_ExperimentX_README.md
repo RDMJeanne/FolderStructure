@@ -1,6 +1,6 @@
 # Title
-Paper/Project/Thesis  
-(The name given to the paper/project/thesis.)
+ExperimentX  
+(The name given to the experiment in ProjectX.)
 
 # Creator
 Jay Doe  
@@ -20,7 +20,7 @@ Department of Amazing Science
 Imaginary Street 42  
 D-01234 ImaginaryTown  
 Country  
-(The department/institute responsible for making the resource availableresponsible in which the resource have been created.)  
+(The department/institute responsible for making the resource available / responsible in which the resource have been created.)  
 
 # Contributor
 Kay Roe  
@@ -35,18 +35,18 @@ kayroe@niamod.edu
 (Email identifier of the Contributor)
 
 # Description
-Exemplary test case to verify the simulation tools and compare to the experiment.  
-Data have been published at Zenodo under CC-BY 4.0, see https://zenodo.org/doi/10.5281/zenodo.XYZ .  
+Exemplary description of ExperimentX highlighting the contens e.g. simulation tools and/or experimental setup.  
+Data of this project have been published at Zenodo under CC-BY 4.0, see https://zenodo.org/doi/10.5281/zenodo.XYZ .  
 (A textual description of the content of the resource.)
 
 # Subject
-* Dissertation  
+* Simulation  
 * Experimental Data  
 * Abbreviation: NMR, SAXS  
 * (Phrase\Keywords describing the content of the resource.)
 
 # Date
-2024-07-01  
+2024-07-15  
 (A date associated with the creation or availability of the resource. Recommended format: YYYY-MM-DD)
 
 # Language
@@ -55,8 +55,6 @@ en-US; de-DE
 
 # Format
 * csv
-* docx
-* pdf
 * (The data format to identify the software and possibly hardware that
   might be needed to display or operate the resource.
   For a list of MIME types see [here](https://www.iana.org/assignments/media-types/media-types.xhtml)).
@@ -68,7 +66,7 @@ Method01XYZ hasDOI https://doi.org/10.5281/zenodo.ZYX
 (Refer to your (post-)processing tools/methods, e.g. URL or git hash)
 
 # Type
-Text  
+Collection  
 (The category of the resource e.g. Collection, Dataset, Event, Image, Experiment, Simulation, Report, Text, Draft, Image. See also [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-7/).)
 
 # Coverage
@@ -76,17 +74,17 @@ Text
 (Temporal coverage is typically a period for acquiring the data.)
 
 # Source
-PhD-Thesis IsPartOf https://doi.org/10.5281/zenodo.ABC  
+ExperimentX IsPartOf https://doi.org/10.5281/zenodo.ABC  
 (Information about a second resource from which the present resource is derived - if applicable.)
 
 # Relation
-Experiment IsPartOf PhD-Thesis  
-PhD-Thesis IsReferencedBy https://doi.org/10.5281/DOI.OF.PAPER  
+ExperimentX IsPartOf ProjectX  
+ProjectX IsReferencedBy https://doi.org/10.5281/DOI.OF.PAPER  
 (An identifier to provide a relationship from source to the present resource,  
 e.g. IsVersionOf, IsReplacedBy, IsPartOf, IsReferencedBy, see [Qualified Dublin Core Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/))
 
 # Identifier
-https://doi.org/10.5281/zenodo.PUBLISHED_THESIS  
+https://doi.org/10.5281/zenodo.PUBLISHED_EXPERIMENTX  
 (An unique identifier of the resource, e.g. DOI, ISBN, Number)
 
 # Rights

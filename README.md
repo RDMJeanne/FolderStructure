@@ -137,20 +137,21 @@ PhD/
 │   └── G_Documents_README.md
 ├── 02_Projects/
 │   ├── 01_Protocols/
-│   ├── Collaborations/
+│   ├── 02_Collaborations/
 │   │   ├── Collab_Overview.md
-│   │   ├── 010_PARTNER_project/
+│   │   ├── 01_PARTNER_project/
 │   │   │   ├── 01_Protocols/
 │   │   │   ├── 02_Data/
 │   │   │   │   ├── 01_Raw/
 │   │   │   │   ├── 02_Processed/
 │   │   │   │   └── M_Data_README.md
 │   │   │   ├── 03_Code/
+│   │   │   │   └── G_Code_README.md
 │   │   │   ├── 04_Results/
 │   │   │   └── M_PARTNER_project_README.md
-│   │   ├── 000_PARTNER_project.zip
+│   │   ├── 00_PARTNER_project.zip
 │   │   └── zzz_from-joe/
-│   ├── ProjectX/
+│   ├── 03_ProjectX/
 │   │   ├── M_ProjextX_README.md
 │   │   ├── YYYY-MM-DD_ExperimentX/
 │   │   │   ├── 01_Protocols/
@@ -159,11 +160,12 @@ PhD/
 │   │   │   │   ├── 02_Processed/
 │   │   │   │   └── M_Data_README.md
 │   │   │   ├── 03_Code/
+│   │   │   │   └── G_Code_README.md
 │   │   │   ├── 04_Results/
 │   │   │   └── M_ExperimentX_README.md
 │   │   └── YYYY-MM-DD_ExperimentX.zip
-│   ├── G_Project_README.md
-│   └── ProjectX.zip
+│   ├── G_Projects_README.md
+│   └── 00_ProjectX.zip
 ├── 03_Presentations/
 │   ├── 01_LabMeetings/
 │   │   └── YYYY-MM-DD_Presentation/
@@ -171,7 +173,11 @@ PhD/
 │   │       ├── 02_OtherResources/
 │   │       └── zzz/
 │   ├── 02_Conferences/
-│   │   └── YYYY-MM-DD_Poster/
+│   │   ├── YYYY-MM-DD_Poster/
+│   │   │   ├── 01_Figures/
+│   │   │   ├── 02_OtherResources/
+│   │   │   └── zzz/
+│   │   └── YYYY-MM-DD_Talk/
 │   │       ├── 01_Figures/
 │   │       ├── 02_OtherResources/
 │   │       └── zzz/
@@ -190,19 +196,20 @@ PhD/
 │   │   │   │   ├── Data/
 │   │   │   │   ├── Fig1A_Caption.txt
 │   │   │   │   └── M_Fig1A_README.md
-│   │   │   ├── SFig1/
+│   │   │   ├── SFigX/
 │   │   │   │   ├── Code/
 │   │   │   │   ├── Data/
-│   │   │   │   ├── SFig1_Caption.txt
-│   │   │   │   └── M_SFig1_README.md
+│   │   │   │   ├── SFigX_Caption.txt
+│   │   │   │   └── M_SFigX_README.md
 │   │   │   ├── zzz/
 │   │   │   ├── FigX.zip
 │   │   │   └── G_ManuscriptFigures_README.md
 │   │   ├── 02_Drafts/
 │   │   │   └── zzz/
-│   │   ├── 03_Final/
+│   │   ├── 03_Submitted/
 │   │   ├── 04_Revision/
-│   │   └── ManuscriptX_DataOverview.txt
+│   │   ├── 05_Published/
+│   │   └── ManuscriptX_DataOverview.xlsx
 │   ├── G_Publications_README.md
 │   ├── HowToWriteFigureCaptions.pdf
 │   ├── HowToWriteNatureAbstracts.pdf
@@ -218,10 +225,13 @@ PhD/
 │   │   └── FigX.zip
 │   ├── 02_Drafts/
 │   │   └── zzz/
-│   ├── 03_Final/
-│   ├── 04_Defense/
+│   ├── 03_Submitted/
+│   ├── 04_Revised/
+│   ├── 05_Published/
+│   ├── 06_Defense/
 │   └── G_Thesis_README.md
-└── misc/
+├── misc/
+└── M_PhD_README.md
 ```
 
 (Tree was generated with [https://www.text-tree-generator.com/](https://www.text-tree-generator.com/))

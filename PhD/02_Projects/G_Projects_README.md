@@ -12,7 +12,7 @@ In here you find the following parts / folders:
 ├── 01_Protocols/
 ├── Collaborations/
 │   └── Collab_Overview.md
-│   └── 010_PARTNER_project/
+│   └── 01_PARTNER_project/
 │   │   ├── 01_Protocols/
 │   │   ├── 02_Data/
 │   │   │   ├── 01_Raw/
@@ -21,7 +21,7 @@ In here you find the following parts / folders:
 │   │   ├── 03_Code/
 │   │   ├── 04_Results/
 │   │   └── M_PARTNER_project_README.md
-│   └── 000_PARTNER_project.zip
+│   └── 00_PARTNER_project.zip
 │   └── zzz_from-joe/
 ├── ProjectX/
 │   ├── M_ProjextX_README.md

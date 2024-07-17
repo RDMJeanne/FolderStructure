@@ -8,16 +8,17 @@
 In here you find the following parts / folders:
 
 ```
-04_Manuscripts/
+04_Publications/
 ├── ManuscriptX/
 │   ├── 01_Figures/
 │   │   ├── 01_Main/
 │   │   └── 02_Supplementary/
 │   ├── 02_Drafts/
 │   │   └── zzz/
-│   ├── 03_Final/
+│   ├── 03_Submitted/
 │   └── 04_Revision/
-├── G_Manuscript_README.md
+│   └── 05_Published/
+├── G_Publications_README.md
 ├── HowToWriteFigureCaptions.pdf
 ├── HowToWriteNatureAbstracts.pdf
 └── ManuscriptX.zip

@@ -11,8 +11,10 @@ In here you find the following parts / folders:
 ├── 01_Figures/
 ├── 02_Drafts/
 │   └── zzz/
-├── 03_Final/
-├── 04_Defense/
+├── 03_Submitted/
+├── 04_Revised/
+├── 05_Published/
+├── 06_Defense/
 └── G_Thesis_README.md
 
 ```
