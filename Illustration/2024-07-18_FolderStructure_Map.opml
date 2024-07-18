@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>FolderStructure2</title>
+</head>
+<body>
+<outline text="PhD"><outline text="G_PhD_README.md"></outline>
+<outline text="01_Documents"><outline text="01_Personal"></outline>
+<outline text="02_Administration"><outline text="01_DMP"><outline text="01_Policies"></outline>
+<outline text="02_Examples"></outline>
+<outline text="G_DMP_README.md"></outline>
+</outline>
+<outline text="02_Grants"></outline>
+</outline>
+<outline text="03_Notes"></outline>
+<outline text="04_Literature"><outline text="ReadPaperTemplate.pdf"></outline>
+<outline text="ReadPaper_README.md"></outline>
+</outline>
+<outline text="05_Courses"><outline text="YYYY_Year1"></outline>
+<outline text="YYYY_Year2"></outline>
+</outline>
+<outline text="G_Documents_README.md"></outline>
+</outline>
+<outline text="02_Projects"><outline text="01_Protocols"></outline>
+<outline text="02_Collaborations"><outline text="Collab_Overview.md"></outline>
+<outline text="01_PARTNER_Project"><outline text="01_Protocols"></outline>
+<outline text="02_Data"><outline text="01_Raw"></outline>
+<outline text="02_Processed"></outline>
+<outline text="M_Data_README.md"></outline>
+</outline>
+<outline text="03_Code"><outline text="G_Code_README.md"></outline>
+</outline>
+<outline text="04_Results"></outline>
+<outline text="M_PARTNER_project_README.md"></outline>
+</outline>
+<outline text="00_PARTNER_project.zip"></outline>
+<outline text="zzz_from-joe"></outline>
+</outline>
+<outline text="03_ProjectX"><outline text="YYYY-MM-DD_ExperimentX"><outline text="01_Protocols"></outline>
+<outline text="02_Data"><outline text="01_Raw"></outline>
+<outline text="02_Processed"></outline>
+<outline text="M_Data_README.md"></outline>
+</outline>
+<outline text="03_Code"><outline text="G_Code_README.md"></outline>
+</outline>
+<outline text="04_Results"></outline>
+<outline text="M_ExperimentX_README.md"></outline>
+</outline>
+<outline text="YYYY-MM-DD_ExperimentX.zip"></outline>
+<outline text="M_ProjectX_README.md"></outline>
+</outline>
+<outline text="00_ProjectX.zip"></outline>
+<outline text="G_Projects_README.md"></outline>
+</outline>
+<outline text="03_Presentations"><outline text="01_LabMeetings"><outline text="YYYY-MM-DD_Presentation"><outline text="01_Figures"></outline>
+<outline text="02_OtherResources"></outline>
+<outline text="zzz"></outline>
+</outline>
+</outline>
+<outline text="02_Conferences"><outline text="YYYY-MM-DD_Poster"><outline text="01_Figures"></outline>
+<outline text="02_OtherResources"></outline>
+<outline text="zzz"></outline>
+</outline>
+<outline text="YYYY-MM-DD_Talk"><outline text="01_Figures"></outline>
+<outline text="02_OtherResources"></outline>
+<outline text="zzz"></outline>
+</outline>
+</outline>
+<outline text="03_Retreats"></outline>
+<outline text="04_Illustrations"><outline text="01_Foreign"></outline>
+<outline text="02_Own"></outline>
+</outline>
+<outline text="G_Presentations_README.md"></outline>
+<outline text="M_Presentation_Metadata.md"></outline>
+<outline text="YYYY-MM-DD_Presentation.zip"></outline>
+</outline>
+<outline text="04_Publications"><outline text="ManuscriptX"><outline text="01_Figures"><outline text="Fig1A"><outline text="Code"></outline>
+<outline text="Data"></outline>
+<outline text="Fig1A_Caption.txt"></outline>
+<outline text="M_Fig1A_README.md"></outline>
+</outline>
+<outline text="SFigX"><outline text="Code"></outline>
+<outline text="Data"></outline>
+<outline text="SFigX_Caption.txt"></outline>
+<outline text="M_SFigX_README.md"></outline>
+</outline>
+<outline text="zzz"></outline>
+<outline text="FigX.zip"></outline>
+<outline text="G_ManuscriptFigures_README.md"></outline>
+</outline>
+<outline text="02_Drafts"><outline text="zzz"></outline>
+</outline>
+<outline text="03_Submitted"></outline>
+<outline text="04_Revision"></outline>
+<outline text="05_Published"></outline>
+<outline text="ManuscriptX_DataOverview.xlsx"></outline>
+</outline>
+<outline text="G_Publications_README.md"></outline>
+<outline text="HowToWriteFigureCaptions.pdf"></outline>
+<outline text="HowToWriteNatureAbstracts.pdf"></outline>
+<outline text="ManuscriptX.zip"></outline>
+</outline>
+<outline text="05_Thesis"><outline text="01_Figures"><outline text="Fig1"><outline text="Code"></outline>
+<outline text="Data"></outline>
+<outline text="Fig1_Caption.txt"></outline>
+<outline text="M_Fig1_README.md"></outline>
+</outline>
+<outline text="zzz"></outline>
+<outline text="FigX.zip"></outline>
+</outline>
+<outline text="02_Drafts"><outline text="zzz"></outline>
+</outline>
+<outline text="03_Submitted"></outline>
+<outline text="04_Revised"></outline>
+<outline text="05_Published"></outline>
+<outline text="06_Defense"></outline>
+<outline text="G_Thesis_README.md"></outline>
+</outline>
+<outline text="misc"></outline>
+<outline text="M_PhD_README.md"></outline>
+</outline>
+<outline text="Legend"><outline text="Folder"></outline>
+<outline text="ZIP File"></outline>
+<outline text="Guidance README"></outline>
+<outline text="Metadata README"></outline>
+<outline text="Other Files"></outline>
+</outline>
+<outline text="Color Scheme"></outline>
+</body>
+</opml>
