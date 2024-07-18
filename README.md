@@ -78,7 +78,11 @@ The "PhD.zip" file is structured into 5 parts:
 | 2. Projects  		| Where the research happens (apart from reviewing literature) |
 | 3. Presentations 	| Presentations of slides and posters are prepared here |
 | 4. Publications 	| Paper writing and figure composition |
-| 5. Thesis 		| Thesis writing and figure composition |	
+| 5. Thesis 		| Thesis writing and figure composition |
+
+#### G and M READMEs
+
+* exlain difference	
 
 ### Templates
 
@@ -110,6 +114,13 @@ Three essential HowTos are provided. For the references, check the according sec
 
 
 These files are also provided **separately** from the large structure in the **Templates folder** of this git repository.
+
+### M_READMEs
+
+* follow dublin core, some terms might require explanation
+* how to read and use them
+* (json parsing??)
+
 
 ### Folder Structure Overview
 		
@@ -269,7 +280,7 @@ As you progress through your PhD, add files to your structure. Remember to docum
 
 ### 7. Cite
 
-If you would like to achknowledge this project, you can cite as follows:
+If you would like to acknowledge this project, you can cite as follows:
 
 
 
