@@ -41,7 +41,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 
 
 ## Further Reading
-
+* Writing your dissertation in 15 minutes a day
 
 
 _____

@@ -10,9 +10,9 @@ In here you find the following parts / folders:
 ```
 02_Projects/
 ├── 01_Protocols/
-├── Collaborations/
-│   └── Collab_Overview.md
-│   └── 01_PARTNER_project/
+├── 02_Collaborations/
+│   ├── Collab_Overview.md
+│   ├── 01_PARTNER_project/
 │   │   ├── 01_Protocols/
 │   │   ├── 02_Data/
 │   │   │   ├── 01_Raw/
@@ -21,9 +21,9 @@ In here you find the following parts / folders:
 │   │   ├── 03_Code/
 │   │   ├── 04_Results/
 │   │   └── M_PARTNER_project_README.md
-│   └── 00_PARTNER_project.zip
+│   ├── 00_PARTNER_project.zip
 │   └── zzz_from-joe/
-├── ProjectX/
+├── 03_ProjectX/
 │   ├── M_ProjextX_README.md
 │   ├── YYYY-MM-DD_ExperimentX/
 │   │   ├── 01_Protocols/
@@ -36,7 +36,7 @@ In here you find the following parts / folders:
 │   │   └── M_ExperimentX_README.md
 │   └── YYYY-MM-DD_ExperimentX.zip
 ├── G_Project_README.md
-└── ProjectX.zip
+└── 00_ProjectX.zip
 
 ```
 
@@ -83,7 +83,7 @@ Although often seen as pure formalitiy for grant proposals, **Data Management Pl
 
 It is recommended to use established **metadata standards** / schemas whereever possible. More information: [https://fairsharing.org/](https://fairsharing.org/). This ensures that all (minimally) relevant metadata is captured.
 
-Additionally, to ensure seamless communication / reduce potential confusion, it is recommneded to write metadata with standardized terms. Collections of these are called **terminilogies**, or **ontologies** if they also hold relationships between terms. A comprehensive database is here: [https://terminology.tib.eu/ts](https://terminology.tib.eu/ts)
+Additionally, to ensure seamless communication / reduce potential confusion, it is recommneded to write metadata with standardized terms. Collections of these are called **terminologies**, or **ontologies** if they also hold relationships between terms. A comprehensive database is here: [https://terminology.tib.eu/ts](https://terminology.tib.eu/ts)
  When using such terms, it is good practice to also give its ID and the source terminology
 - Title: Term
 - TermID: id123
@@ -106,7 +106,7 @@ More information:
 
 When describing **experimental procedures** it may be helpful to check whether an appropriate protocol is already publicly avilable - or if not, it is a good idea to publish your own (receiving a DOI and a citable research output). The most relevant **repository** for protocols, checklists, workflows, and similar in the life science is [https://www.protocols.io/](https://www.protocols.io/). Some ELNs provide an interface for quick implementation and adaption of published protocols.
 
-When describing used **ingredients**, or when listing used **resources**, **cell lines**, **plasmids**, or **antibodies**, researchers often resort to naming the supplier and the provider-internal ID. This can be inaccurate and not helpful in identifying the exact reagent or mutation line. It is strongly recommended to use persistent unique identifiers also for these objects (like a DOI for publications), the most comprehensive **database** being the Research Resource Identification Portal [https://rrid.site/](https://rrid.site/). If a resource is not available there yet, acquiring an ID is straightforward and fast.
+When describing used **ingredients**, or when listing used **resources**, **cell lines**, **plasmids**, or **antibodies**, researchers often resort to naming the supplier and the provider-internal ID. This can be inaccurate and not helpful in identifying the exact reagent or mutation line. It is strongly recommended to use persistent unique identifiers also for these objects (like a DOI for publications), the most comprehensive **database** being the **Research Resource Identification Portal** [https://rrid.site/](https://rrid.site/). If a resource is not available there yet, acquiring an ID is straightforward and fast.
 
 
 ### Code on GitHub: Get a DOI from Zenodo
