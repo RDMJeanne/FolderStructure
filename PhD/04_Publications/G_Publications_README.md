@@ -77,6 +77,7 @@ There are clear definitions on which **contributions justify authorship**. So-ca
 * FAIR
 * Standards
 
+* Silvello (2018). **Theory and practice of data citation**. Journal of the Association for Information Science and Technology, 69: 6-20. [https://doi.org/10.1002/asi.23917](https://doi.org/10.1002/asi.23917)
 
 ### The importance of permanent, globally unique identifiers
 
@@ -92,6 +93,8 @@ There are clear definitions on which **contributions justify authorship**. So-ca
 ### On science communication and visualization
 
 * Publications Office of the European Union (2022). A practical guide to user-friendly data in publications: [https://data.europa.eu/apps/data-in-publications-guide/2022-data-in-publications-guide-extended.pdf](https://data.europa.eu/apps/data-in-publications-guide/2022-data-in-publications-guide-extended.pdf) 
+* Nature Reviews Artwork Guide to Scientific Figures. [https://www.nature.com/documents/natrev-artworkguide.pdf](https://www.nature.com/documents/natrev-artworkguide.pdf)
+* How to Make Good Figures for Scientific Papers: [https://www.simplifiedsciencepublishing.com/resources/how-to-make-good-figures-for-scientific-papers](https://www.simplifiedsciencepublishing.com/resources/how-to-make-good-figures-for-scientific-papers)
 
 * sexy titles, spin, and story telling
 * visualizing data

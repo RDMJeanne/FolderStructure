@@ -94,7 +94,8 @@ For your PhD work, we recommend the following books:
 * Strunk, William Jr.; White, E. B. (2009). **The Elements of Style** (5th ed.). Boston: Allyn and Bacon. p. xiii. ISBN 978-0-205-31342-6.
 * Bolker, Joan. (1998) **Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing Your Doctoral Thesis**. First Edition. New York: Owl Books.
 
-
+On scientific rigor:
+*  Prager et al. **Improving transparency and scientific rigor in academic publishing**. J Neuro Res. 2019; 97: 377–390. [https://doi.org/10.1002/jnr.24340 ](https://doi.org/10.1002/jnr.24340 )
 
 
 _____
