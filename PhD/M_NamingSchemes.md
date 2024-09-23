@@ -42,20 +42,31 @@ All microscopy files taken from Machine X within Project Y
 
 ### Abbreviations / Codes
 * YYYY-MM-DD = Date in ISO 8601 format
+* YY = Project Shorthand
+* XX = Microscope
 * ID = a two-digit number, project ID, see ELN entry (link)
-* SAMPLE = Sample code according to ELN entry. Consists of SPECIES-ORGAN(-PLANE) with repsective abbreviations.
-* SPECIES = Species of the sample. E.g., MMUS
-* ORGAN = Which organ / celly type is in focus 
-* PLANE = Which plane is cut, if applicable
-* MMUS = Mus musculus (house mouse)
+* SAMPLE = Sample code according to ELN entry. Consists of 
+	SEX-AGE-ORGAN(-PLANE) with repsective abbreviations.
+* SEX = Sex of the sample
+* AGE = Age of the sample
+* ORGAN = Which organ / celly type is in focus (brain, blodd)
+* PLANE = Which plane is cut, if applicable (sagittal, ...)
+
+* M-Age = Mouse Aging Project (see ELN Entry LINK)
+* LS = LightSheet
+* M = Male
+* F = Female
+* Y = Young (6 weeks)
+* O = Old (6 months)
 * sag = sagittal
+ 
 
 ### Scheme
-YYYY-MM-DD_ID_SAMPLE.tiff
+YYYY-MM-DD_YY_XX_ID_SAMPLE.tiff
 
 ### Examples
-* 2024-06-12_12_MMUS-brain-sag.tiff
-* 2016-03-03_02_MMUS-blood.tiff
+* 2024-06-12_12_YY_LS_M-Y-brain-sag.tiff
+* 2016-03-03_02_YY_LS_F-O-blood.tiff
 
 ---
 
