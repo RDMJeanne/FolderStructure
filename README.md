@@ -9,7 +9,7 @@ This repository contains
 
 ## Aim
 
-This folder structure is intended to support individual **research data management related** to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. 
+This folder structure is intended to support individual **research data management practices related** to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. 
 Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at section **Ref-RDM**.
 
 The folder structure aims to be:
