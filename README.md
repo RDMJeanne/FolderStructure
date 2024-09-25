@@ -19,7 +19,7 @@ The folder structure aims to be:
 * supporting best practices with templates and guidance
 * modular & flexible
 
-Each folder in the structure contains a **guide README** that explains what this folder is about and the recommended use. Additionally, folders can hold a **README** that is ready to be filled with your **own metadata**, as appropriate for the respective folder.
+Each folder in the structure contains a **guide README** that explains what this folder is about and the recommended use. Additionally, folders can hold a **metadata README** that is ready to be filled with your **own metadata**, as appropriate for the respective folder.
 
 Naturally, you will not need all of the provided parts and maybe need something else in addition. Feel **free to modify** the structure to your needs, once you copied it to your working station (see section X). Accordingly, we intend this folder structure to be a working example.
 
