@@ -4,7 +4,7 @@
 
 This repository contains 
 
-1. A template folder structure for a PhD project in the life sciences, a one-stop-shop for an organised approach.
+1. A template folder structure for PhD work in the life sciences, a one-stop-shop for an organised approach.
 2. A collection of all the lower-level templates (zipped folder structures and READMEs)
 
 ## Aim
