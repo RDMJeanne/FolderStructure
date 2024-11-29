@@ -28,7 +28,7 @@ PhD/
 | 5. Thesis 		| Thesis writing and figure composition. |
 
 A full overview of the contained folders and files can be found in the topmost README.md. 
-For more detailed information on folder contents and according best practices, have a look at the respective guide G_\<CONTENT\>_README.md.
+For more detailed information on folder contents and according best practices, have a look at the respective guide G\_\<CONTENT\>_README.md.
 
 
 Feel free to adapt the suggested folder structure to your specific needs and workflow.
@@ -57,7 +57,7 @@ As an alternative/complementary **approach** to file and folder naming, you can 
 * [https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
 
 
-### Get an ORCID
+### Get an ORCID <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>
 
 As a researcher, it is best practice (and increasingly demanded by publishers) to have an ORCID. This "Open Researcher and Contributor ID"  brings three main benefits: 
 * The ID remains persistent if you change your affiliation, mail address, or even name.
@@ -96,7 +96,7 @@ Throughout your progress, revisit the plan often for guidance and to update it w
 
 For your PhD work, we recommend the following books:
 * Turabian, Kate L. (2018), Booth, Wayne C.; Colomb, Gregory G.; Williams, Joseph M.; Bizup, Joseph; FitzGerald, William T.; University of Chicago Press Editorial Staff (eds.), **A Manual for Writers of Research Papers, Theses, and Dissertations** (9th ed.), Chicago: University of Chicago Press, ISBN 978-0226430577. Website: [https://www.chicagomanualofstyle.org/turabian.html](https://www.chicagomanualofstyle.org/turabian.html)
-* Strunk, William Jr.; White, E. B. (2009). **The Elements of Style** (5th ed.). Boston: Allyn and Bacon. p. xiii. ISBN 978-0-205-31342-6.
+* Strunk, William Jr.; White, E. B. (2009). **The Elements of Style** (5th ed.). Boston: Allyn and Bacon. p. xiii. ISBN 978-0-205-31342-6. Website: [https://en.wikipedia.org/wiki/The_Elements_of_Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)
 * Bolker, Joan. (1998) **Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing Your Doctoral Thesis**. First Edition. New York: Owl Books.
 
 On scientific rigor:
@@ -108,4 +108,4 @@ _____
 This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>) & Ron Dockhorn (<a href="https://orcid.org/0000-0002-5268-5430"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5268-5430</a>).
 
 * git: [https://github.com/RDMJeanne/FolderStructure](https://github.com/RDMJeanne/FolderStructure)
-* DOI: 
+
