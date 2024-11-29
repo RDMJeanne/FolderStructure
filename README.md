@@ -83,7 +83,7 @@ The "PhD.zip" file is structured into 5 parts:
 #### G\_READMEs and M\_READMEs
 
 * **Guidance G\_\<CONTENT\>\_README.md**  will provide some advice what to do and how to organize yourself of the appropriate content \<CONTENT\>
-* **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for Linked Data.
+* **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for linked data, see [Section Parsing M_README.md to M_README.json](#Parsing\ M\_README.md\ to\ M\_README.json).
 
 ### Templates
 
@@ -119,15 +119,36 @@ Three essential HowTos are provided. For the references, check the according sec
 
 These files are also provided **separately** from the large structure in the **Templates folder** of this git repository.
 
-### M_READMEs
+### Parsing M_README.md to M_README.json
 
-* follow dublin core, some terms might require explanation
-* how to read and use them
-* (json parsing??)
+We recommend to provide as much metadata information as possible to find and understand your data in your project tree. Therefore, this repository also contains dedicated M\_\<CONTENT\>\_README.md files based on the [Dublin Core keywords](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). To enhance machine-interoperability along with a folder structure, we provide a simplistic parser to convert the Markdown to JSON files for further data processing, e.g. to create a database catalog for your files or to provide additional metadata in public repository. The parser and further documentation can be found on [DOI:doi](zenodo.) with the source code available on [github](https://github.com/Bondoki/ParsingMetadataMD2JSON). 
 
+The following keywords will be parsed and converted:
+
+| Keyword                                                                                                                      | Description                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Title](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/title)             | Descriptive name the Paper/Project/Thesis/Dataset                                                                                                                                                                                       |
+| [Creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/creator)         | A consecutive list of names, who created the resource and is primarily responsible.                                                                                                                                                     |
+| [Creator.ORCID](https://support.orcid.org/hc/en-us/articles/360006897674-Structure-of-the-ORCID-Identifier)                  | Additional information: The ORCID identifier of the Creator.                                                                                                                                                                            |
+| [Creator.Email](https://schema.org/email)                                                                                    | Additional information: The email identifier of the Creator.                                                                                                                                                                            |
+| [Publisher](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/publisher)     | The department/institute responsible for making the resource available.                                                                                                                                                                 |
+| [Contributor](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/contributor) | A consecutive list of names, contributed to the resource and is secondary to Creators.                                                                                                                                                  |
+| [Contributor.ORCID](https://support.orcid.org/hc/en-us/articles/360006897674-Structure-of-the-ORCID-Identifier)              | Additional information: The ORCID identifier of the Contributor.                                                                                                                                                                        |
+| [Contributor.Email](https://schema.org/email)                                                                                | Additional information: The email identifier of the Contributor.                                                                                                                                                                        |
+| [Description](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/description) | A textual description of the content of the resource.                                                                                                                                                                                   |
+| [Subject](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/subject)         | Phrase\Keywords describing the content of the resource.                                                                                                                                                                                 |
+| [Date](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/date)               | A date associated with the creation or availability of the resource. Recommended format: YYYY-MM-DD.                                                                                                                                    |
+| [Language](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/language)       | The language of the resource recommended as [BCP 47 language tag](https://doi.org/10.17487/RFC5646).                                                                                                                                    |
+| [Format](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/format)           | The data format to identify the software and possibly hardware that might be needed to display or operate the resource. For a list of MIME types see [here](https://www.iana.org/assignments/media-types/media-types.xhtml).            |
+| [Type](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/type)               | The category of the resource e.g. Collection, Dataset, Event, Image, Experiment, Simulation, Report, Text, Draft, Image. See also [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-7/). |
+| [Coverage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/coverage)       | Temporal coverage is typically a period for acquiring the data.                                                                                                                                                                         |
+| [Source](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/source)           | Information about a second resource from which the present resource is derived - if applicable.                                                                                                                                         |
+| [Relation](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/relation)       | Provide a relationship from source to the present resource, e.g. IsVersionOf, IsReplacedBy, IsPartOf, IsReferencedBy, see [Qualified Dublin Core Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/).             |
+| [Identifier](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/identifier)   | An unique identifier of the resource, e.g. DOI, ISBN, Number                                                                                                                                                                            |
+| [Method](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/MethodOfAccrual)         | Refer to your (post-)processing tools/methods, e.g. URL or git hash, as relation.                                                                                                                                                       |
+| [Rights](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/elements/1.1/rights)           | A rights management statement of the resource, e.g. license for publishing and sharing.                                                                                                                                                 |
 
 ### Folder Structure Overview
-		
 
 Imagine to flip open the folder tree, this is the structure you will find within:
 
@@ -326,7 +347,8 @@ ____
 
 ### ToDo
 
-* Check the list in [templates](#Templates) (added 20241129)
+* @RD: Check the list in [templates](#Templates) (added 20241129)
+* @RD: Add DOI of https://github.com/Bondoki/ParsingMetadataMD2JSON (added 20241129)
 
 
 
