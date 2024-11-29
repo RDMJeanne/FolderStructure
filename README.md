@@ -89,21 +89,24 @@ The "PhD.zip" file is structured into 5 parts:
 
 Embedded in this folder structure, at the appropriate places, you can find **zipped template folders**; **metadata READMEs** for you to adapt, adopt, and fill in; and **How-Tos**. 
 
-| Zipped Template Folder      | Purpose / Content                                                                                               | Where (short)                                    |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| YYYYMMDD_ExperimentX.zip    | Folder structure for a new experiment / method. Incl. folders for protocols, data, code, results.               | [YYYYMMDD_ExperimentX](YYYYMMDD_ExperimentX.zip) |
-| ProjextX.zip                | Folder structure for a new project. Incl. ExperimentX subfolder.                                                | PhD/02/                                          |
-| YYYY-MM-DD_Presentation.zip | Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders. | PhD/03/                                          |
-| ManuscriptX.zip             | Folder structure for a new manuscript. Incl. figures, drafts, final subfolders                                  | PhD/04/                                          |
+| Zipped Template Folder                                                           | Purpose / Content                                                                                               | Where (short)                                                                        |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [YYYYMMDD_ExperimentX.zip](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX.zip) | Folder structure for a new experiment / method. Incl. folders for protocols, data, code, results.               | [PhD/02_Projects/03_ProjectX/](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX.zip) |
+| [00_ProjectX.zip](PhD/02_Projects/00_ProjectX.zip)                               | Folder structure for a new project. Incl. ExperimentX subfolder.                                                | [PhD/02_Projects/](PhD/02_Projects/00_ProjectX.zip)                                  |
+| [YYYY-MM-DD_Presentation.zip](PhD/03_Presentations/YYYY-MM-DD_Presentation.zip)  | Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders. | [PhD/03_Presentations](PhD/03_Presentations/YYYY-MM-DD_Presentation.zip)             |
+| ManuscriptX.zip                                                                  | Folder structure for a new manuscript. Incl. figures, drafts, final subfolders                                  | PhD/04_Publications/                                                                 |
 
-Metadata READMEs are denoted with an "M_" starting the file name (guide REAMDEs start with "G_").
+Metadata READMEs are denoted with an "M_" starting the file name (guide READMEs start with "G_").
 
-| Metadata README 			| Purpose / Content 	| Where (short) |
-| -------- 			| ------- 			| ------- |
-| M_ProjextX_README.md  	| Copy and fill in information on individual projects. | PhD/02/ProjextX/  |
-| M_ExperimentX_README.md  	| Copy and fill in information on individual experiments / methods. | PhD/02/ProjextX/DATE/  |
-| M_Data_README.md  	| Copy and fill in information on individual data sets. | PhD/02/ProjextX/DATE/02/  |
-| M_Presentation_Metadata.md  	| Copy and fill in information on individual presentations (e.g., for upload on Zenodo) | PhD/03/  |
+| Metadata README                                                                                                                                                                                  | Purpose / Content                                                                                       | Where (short)                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [M_ProjectX_README.md](PhD/02_Projects/03_ProjectX/M_ProjectX_README.md)                                                                                                                         | Copy and fill in information on individual projects.                                                    | [PhD/02_Projects/03_ProjectX](PhD/02_Projects/03_ProjectX/M_ProjectX_README.md)                                                                                                                                                                                                         |
+| [M_ExperimentX_README.md](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/M_ExperimentX_README.md)                                                                                              | Copy and fill in information on individual experiments / methods.                                       | [PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/M_ExperimentX_README.md)                                                                                                                                                           |
+| [M_Data_README.md](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/02_Data/M_Data_README.md) [M_Data_README.md](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/M_Data_README.md) | Copy and fill in information on individual data sets.                                                   | [PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/02_Data/](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/02_Data/M_Data_README.md) [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/M_Data_README.md) |
+| [M_PARTNER_project_README.md](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/M_PARTNER_project_README.md)                                                                                 | Copy and fill in information on projects by collaboration partners.                                     | [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/M_PARTNER_project_README.md)                                                                                                                                             |
+| M_Presentation_Metadata.md                                                                                                                                                                       | Copy and fill in information on individual presentations (e.g., for upload on Zenodo)                   | PhD/03_Presentation/                                                                                                                                                                                                                                                                    |
+| [M_Fig1A_README.md](PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md)  [M_Fig1_README.md](PhD/05_Thesis/01_Figures/Fig1/M_Fig1_README.md)                                      | Copy and fill in information on figures used in publications (e.g. Manuscripts or Thesis)               | [PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/](PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md)  [PhD/05_Thesis/01_Figures/Fig1/](PhD/05_Thesis/01_Figures/Fig1/M_Fig1_README.md)                                                                               |
+| [M_SFigX_README.md](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)                                                                                                          | Copy and fill in information on supplementary figures used in publications (e.g. Manuscripts or Thesis) | [PhD/04_Publications/ManuscriptX/01_Figures/SFigX/](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)                                                                                                                                                                 |
 
 Three essential HowTos are provided. For the references, check the according section below.
 
@@ -321,6 +324,9 @@ ____
 * Is very welcome!
 * As are use cases - show us how you use it!
 
+### ToDo
+
+* Check the list in [templates](#Templates) (added 20241129)
 
 
 
