@@ -1,4 +1,4 @@
-2024-06-12
+2024-11-29
 
 # PhD Project Folder Template for the Life Sciences
 
@@ -10,7 +10,7 @@ This repository contains
 ## Aim
 
 This folder structure is intended to support individual **research data management practices related** to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. 
-Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at section **Ref-RDM**.
+Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at section **[References RDM](#References)**. For easy-to-read and easy-to-write experience we use [Markdown](https://daringfireball.net/projects/markdown/) \*.md files enriching plain text documents with some formatting syntax. 
 
 The folder structure aims to be:
 
@@ -19,7 +19,7 @@ The folder structure aims to be:
 * supporting best practices with templates and guidance
 * modular & flexible
 
-Each folder in the structure contains a **guide README** that explains what this folder is about and the recommended use. Additionally, folders can hold a **metadata README** that is ready to be filled with your **own metadata**, as appropriate for the respective folder.
+Each folder in the structure contains a **guide G\_\*\_README.md** that explains what this folder is about and the recommended use. Additionally, folders can hold a **metadata M\_\*\_README.md** that is ready to be filled with your **own metadata**, as appropriate for the respective folder. 
 
 Naturally, you will not need all of the provided parts and maybe need something else in addition. Feel **free to modify** the structure to your needs, once you copied it to your working station (see section X). Accordingly, we intend this folder structure to be a working example.
 
@@ -28,8 +28,8 @@ Naturally, you will not need all of the provided parts and maybe need something 
 
 1. Template folder **structure** for a PhD project in the life sciences (**PhD.zip**)
 	* Folder and file **naming schemes** following best practices
-	* **Guide READMEs** with explanations and tips, how the structure is intended to be used and how to implement best practices at the respective level
-	* **Metadata READMEs** ready for your input of metadata. These try to capture as many options as possible, thus working as a reminder on which metadata to collect where. Additionally, you can use them as templates for more folders or in other contexts (e.g., in an ELN).
+	* **Guide G\_\*\_READMEs** with explanations and tips, how the structure is intended to be used and how to implement best practices at the respective level
+	* **Metadata M\_\*\_READMEs** ready for your input of metadata. These try to capture as many options as possible, thus working as a reminder on which metadata to collect where. Additionally, you can use them as templates for more folders or in other contexts (e.g., in an ELN).
 	* **HowTos** as a starting point for your scientific reading and writing journey.
 	* **zzz folders**: The suggested place for files that are older version, but are not ready to be deleted. When the project ends, you can delete these folders, since you probably did not look into them again.
 	* **zzz-from-joe folder**: For incoming files from collaborators that do not fit your naming conventions. When you use an incoming file, make a copy, change the name, and document that you did this.
@@ -48,12 +48,12 @@ Naturally, you will not need all of the provided parts and maybe need something 
 ### Schemes 
 
 Most folders are labelled with the following scheme:
-* ##_\<CONTENT\>, 
+* ##\_\<CONTENT\>, 
 	* where ## is a left-padded index used to sort the folders according to importance / work flow, 
 	* and \<CONTENT\> is a single word indicating the content.
 
 The READMEs follow this scheme:
-* \<TYPE\>_\<CONTENT\>_README,
+* \<TYPE\>\_\<CONTENT\>\_README.md,
 	* where \<TYPE\> is either resolved to G for Guidance or M for Metadata, 
 	* and \<CONTENT\> is a single word indicating the content of the folder it resides in.
 
@@ -63,8 +63,8 @@ Few folders are either named with the scheme
 	* with the # as the year count relative to starting the PhD.
 
 Another scheme is this:
-* \<YYYY-MM-DD\>_\<CONTENT\>, 
-	* where \<YYYY-MM-DD\> is supposed to be resolved to the relevant date in ISO 8601 format.
+* \<YYYYMMDD\>\_\<CONTENT\>, 
+	* where \<YYYYMMDD\> is supposed to be resolved to the relevant date in [ISO 8601](https://www.iso.org/obp/ui/en/#iso:std:iso:8601:-1:ed-1:v1:en:term:3.1.3.1) format with YYYY as year, MM as month, and DD as day.
 
 Experiment can also mean method for you.
 
@@ -80,20 +80,21 @@ The "PhD.zip" file is structured into 5 parts:
 | 4. Publications 	| Paper writing and figure composition |
 | 5. Thesis 		| Thesis writing and figure composition |
 
-#### G and M READMEs
+#### G\_READMEs and M\_READMEs
 
-* exlain difference	
+* **Guidance G\_\<CONTENT\>\_README.md**  will provide some advice what to do and how to organize yourself of the appropriate content \<CONTENT\>
+* **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for Linked Data.
 
 ### Templates
 
 Embedded in this folder structure, at the appropriate places, you can find **zipped template folders**; **metadata READMEs** for you to adapt, adopt, and fill in; and **How-Tos**. 
 
-| Zipped Template Folder    			| Purpose / Content 	| Where (short) |
-| -------- 			| ------- 			| ------- |
-| ExperimentX.zip 		| Folder structure for a new experiment / method. Incl. folders for protocols, data, code, results.| PhD/02/ProjectX/  |
-| ProjextX.zip    		| Folder structure for a new project. Incl. ExperimentX subfolder.			| PhD/02/  |
-| YYYY-MM-DD_Presentation.zip 	| Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders.  | PhD/03/ |
-| ManuscriptX.zip  		| Folder structure for a new manuscript. Incl. figures, drafts, final subfolders  |  PhD/04/ |
+| Zipped Template Folder      | Purpose / Content                                                                                               | Where (short)                                    |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| YYYYMMDD_ExperimentX.zip    | Folder structure for a new experiment / method. Incl. folders for protocols, data, code, results.               | [YYYYMMDD_ExperimentX](YYYYMMDD_ExperimentX.zip) |
+| ProjextX.zip                | Folder structure for a new project. Incl. ExperimentX subfolder.                                                | PhD/02/                                          |
+| YYYY-MM-DD_Presentation.zip | Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders. | PhD/03/                                          |
+| ManuscriptX.zip             | Folder structure for a new manuscript. Incl. figures, drafts, final subfolders                                  | PhD/04/                                          |
 
 Metadata READMEs are denoted with an "M_" starting the file name (guide REAMDEs start with "G_").
 
@@ -311,6 +312,8 @@ ____
 #### Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>)
 
 #### Jeanne Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>)
+
+#### Ron Dockhorn (<a href="https://orcid.org/0000-0002-5268-5430"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5268-5430</a>)
 
 
 ### Feedback
