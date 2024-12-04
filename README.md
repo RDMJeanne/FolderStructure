@@ -1,4 +1,4 @@
-2024-11-29
+2024-12-04
 
 # PhD Project Folder Template for the Life Sciences
 
@@ -7,6 +7,9 @@ This repository contains
 1. A template folder structure for PhD work in the life sciences, a one-stop-shop for an organised approach.
 2. A collection of all the lower-level templates (zipped folder structures and READMEs)
 
+## TL;DR
+
+To get started with this PhD project folder template, download the "PhD.zip" file and unzip it to your desired location. Review the guide G\_\*\_READMEs to understand the purpose and best practices for each folder. Adjust the structure to your needs and edit the metadata M\_\*\_READMEs to capture your own project information. Add your files to the structure and document your metadata as you progress through your PhD. By following these steps, you can use this template to streamline your workflow and improve your research productivity. \[Summarized by Meta LLaMA 3.1 8B Instruct\]
 ## Aim
 
 This folder structure is intended to support individual **research data management practices related** to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. 
@@ -297,7 +300,7 @@ Potentially you can already adjust the structure to your needs, for example rena
 
 ### 5. Edit READMEs
 
-All metadata READMEs (denoted with "M_") are there to capture your own metadata, and thus wait for you to fill them. One natural starting point is the M_PhD_README.md.
+All metadata READMEs (denoted with "M_") are there to capture your own metadata, and thus wait for you to fill them. One natural starting point is the [M_PhD_README](M_PhD_README.md).
 
 ### 6. Add your files
 
@@ -349,6 +352,8 @@ ____
 
 * @RD: Check the list in [templates](#Templates) (added 20241129)
 * @RD: Add DOI of https://github.com/Bondoki/ParsingMetadataMD2JSON (added 20241129)
+* @JW: There's a info about a screenshot in [Sec. Download](#1.\ Download)
+* @RD: Review and maybe rewrite [TL;DR](#TL;DR) 
 
 
 
