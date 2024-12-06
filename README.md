@@ -300,7 +300,7 @@ Potentially you can already adjust the structure to your needs, for example rena
 
 ### 5. Edit READMEs
 
-All metadata READMEs (denoted with "M_") are there to capture your own metadata, and thus wait for you to fill them. One natural starting point is the [M_PhD_README](M_PhD_README.md).
+All metadata READMEs (denoted with "M_") are there to capture your own metadata, and thus wait for you to fill them. One natural starting point is the [M_PhD_README](PhD/M_PhD_README.md).
 
 ### 6. Add your files
 

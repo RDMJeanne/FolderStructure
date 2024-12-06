@@ -1,4 +1,4 @@
-2024-11-21
+2024-12-06
 
 # Guide README of 'PhD' folder
 
@@ -19,17 +19,16 @@ PhD/
 ```
 
 
-| Part         		| Purpose / Content   |
-|--------------		|-----------|
-| 1. Documents 		| Where all the documents go that you collect or need at this high level. This includes administrative, notes, literature, and course-related docs.|
-| 2. Projects  		| Where the research happens (apart from reviewing literature), i.e., the place for data, analyses, code, protocols, etc. |
-| 3. Presentations 	| Presentations of slides and posters are prepared here. |
-| 4. Publications 	| Paper writing and figure composition as well as preparation of all other to-be-published content. |
-| 5. Thesis 		| Thesis writing and figure composition. |
+| Part             | Purpose / Content                                                                                                                                 | README                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1. Documents     | Where all the documents go that you collect or need at this high level. This includes administrative, notes, literature, and course-related docs. | [G_Documents_README](PhD/01_Documents/G_Documents_README.md)             |
+| 2. Projects      | Where the research happens (apart from reviewing literature), i.e., the place for data, analyses, code, protocols, etc.                           | [G_Projects_README](PhD/02_Projects/G_Projects_README.md)                |
+| 3. Presentations | Presentations of slides and posters are prepared here.                                                                                            | [G_Presentations_README](PhD/03_Presentations/G_Presentations_README.md) |
+| 4. Publications  | Paper writing and figure composition as well as preparation of all other to-be-published content.                                                 | [G_Publications_README](PhD/04_Publications/G_Publications_README.md)    |
+| 5. Thesis        | Thesis writing and figure composition.                                                                                                            | [G_Thesis_README](PhD/05_Thesis/G_Thesis_README.md)                      |
 
-A full overview of the contained folders and files can be found in the topmost README.md. 
-For more detailed information on folder contents and according best practices, have a look at the respective guide G\_\<CONTENT\>_README.md.
-
+A full overview of the contained folders and files can be found in the topmost [README](README.md). 
+For more detailed information on folder contents and according best practices, have a look at the respective guide G\_\<CONTENT\>\_README.md.  
 
 Feel free to adapt the suggested folder structure to your specific needs and workflow.
 
@@ -47,9 +46,9 @@ Make sure to label your files and folders with meaningful names. Names should be
 * consisting only of alphanumeric characters (no special characters like parentheses, umlauts, colons, spaces, whitespaces etc.)
 * abbreviations should be documented in a dictionary
 
-If you include a **date**, make sure to follow [ISO 8601](https://www.iso.org/obp/ui/en/#iso:std:iso:8601:-1:ed-1:v1:en:term:3.1.3.1), i.e., year first, then month, then day: YYYY-MM-DD or YYYYMMDD; to ensure chronological sorting.
+If you include a **date**, make sure to follow [ISO 8601](https://www.iso.org/obp/ui/en/#iso:std:iso:8601:-1:ed-1:v1:en:term:3.1.3.1), i.e., year first, then month, then day: YYYY-MM-DD or YYYYMMDD ensuring chronological sorting.
 
-If you include any **numbers** (e.g., as an ID), consider left-padding / leading zeroes. I.e., start numbering with 001 if you expect up to 999 files.
+If you include any **numbers** (e.g., as an ID), consider left-padding / leading zeroes, i.e. start numbering with 001 if you expect up to 999 files.
 
 As an alternative/complementary **approach** to file and folder naming, you can consider the "Johnny Decimal" system of structuring files in folders: [https://johnnydecimal.com/](https://johnnydecimal.com/)
 
