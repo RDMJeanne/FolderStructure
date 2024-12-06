@@ -1,4 +1,4 @@
-2024-05-07
+2024-12-07
 
 # Guide README of 'DMP' folder
 
@@ -40,13 +40,13 @@ You can publish your DMP (also with updated versions). Depending on your funding
 
 Publishing your DMP in a repository (or at least as a supplement to a dataset / paper) is considered to be research output. As such, your work will be increasingly **recognized and credited**, following the vision of CoARA ([https://coara.eu/](https://coara.eu/)). It also means that with the assigned permanent identifier (usually a DOI, [https://www.doi.org/](https://www.doi.org/)) you can reference to your DMP and list it in your CV. Your ORCID ([https://orcid.org/](https://orcid.org/)) site will also show your work, helping to further spread the information.
 
-The more researchers publish theirn DMPs, the easier it will be to identify the practices relevant for you, there will be more examples and a better understanding of what makes a DMP good. Science is alsways a product of the **community**.
+The more researchers publish their DMPs, the easier it will be to identify the practices relevant for you, there will be more examples and a better understanding of what makes a DMP good. Science is always a product of the **community**.
 
 
 ### Funding agencies and DMPs
-Most funding agencies do now encourage, ask for, or demand a DMP when applying for a grant. Many of them provide own **templates**. They may vary in question order, complexity, and length; however, the concept and general content is alyways the same. The focus of DMPs as desired by funders lies on reusability of data and how it is achieved and facilitated, i.e., questions revolve around management, sharing, and preservation.
+Most funding agencies do now encourage, ask for, or demand a DMP when applying for a grant. Many of them provide own **templates**. They may vary in question order, complexity, and length; however, the concept and general content is always the same. The focus of DMPs as desired by funders lies on reusability of data and how it is achieved and facilitated, i.e., questions revolve around management, sharing, and preservation.
 
-It may be possible (please check!) to provide a **link to your living DMP** (or a frozen version of it) so you do not need to produce a DMP only for a funder, following only one template. This helps to navigate the usual page limitation of grant proposals.
+It may be possible (please check beforehand!) to provide a **link to your living DMP** (or a frozen version of it) so you do not need to produce a DMP only for a funder, following only one template. This helps to navigate the usual page limitation of grant proposals.
 
 
 ## Further Reading
@@ -80,8 +80,8 @@ It may be possible (please check!) to provide a **link to your living DMP** (or 
 
 _____
 
-This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>)
+This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>) & Ron Dockhorn (<a href="https://orcid.org/0000-0002-5268-5430"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5268-5430</a>).
 
 * git: [https://github.com/RDMJeanne/FolderStructure](https://github.com/RDMJeanne/FolderStructure)
-* DOI: 
+
 
