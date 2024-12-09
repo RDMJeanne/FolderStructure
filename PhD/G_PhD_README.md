@@ -21,7 +21,7 @@ PhD/
 
 | Part             | Purpose / Content                                                                                                                                 | README                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 1. Documents     | Where all the documents go that you collect or need at this high level. This includes administrative, notes, literature, and course-related docs. | [G_Documents_README](PhD/01_Documents/G_Documents_README.md)             |
+| 1. Documents     | Where all the documents go that you collect or need at this high level. This includes administrative, notes, literature, and course-related docs. | [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)            |
 | 2. Projects      | Where the research happens (apart from reviewing literature), i.e., the place for data, analyses, code, protocols, etc.                           | [G_Projects_README](PhD/02_Projects/G_Projects_README.md)                |
 | 3. Presentations | Presentations of slides and posters are prepared here.                                                                                            | [G_Presentations_README](PhD/03_Presentations/G_Presentations_README.md) |
 | 4. Publications  | Paper writing and figure composition as well as preparation of all other to-be-published content.                                                 | [G_Publications_README](PhD/04_Publications/G_Publications_README.md)    |
