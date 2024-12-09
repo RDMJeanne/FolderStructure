@@ -300,7 +300,7 @@ Potentially you can already adjust the structure to your needs, for example rena
 
 ### 5. Edit READMEs
 
-All metadata READMEs (denoted with "M_") are there to capture your own metadata, and thus wait for you to fill them. One natural starting point is the [M_PhD_README](PhD/M_PhD_README.md).
+All metadata READMEs (denoted with "M_") are there to capture your own metadata, and thus wait for you to fill them. One natural starting point is the [M_PhD_README](/PhD/M_PhD_README.md).
 
 ### 6. Add your files
 
@@ -348,12 +348,19 @@ ____
 * Is very welcome!
 * As are use cases - show us how you use it!
 
+### How to cite
+
+This project is licensed unter XXX and YYY and made public available free of charge. The project can be distributed, used, or modified in any way without acknowledgement of the original authors. If you find the resource useful and need citation in academic context, please use the following:  
+* Files: Y.D, J.W, R.D., "PhD Project Folder Template for the Life Sciences", Zenodo, DOI:
+* Paper: Y.D, J.W, R.D., "# Data Organization Made Easy: Comprehensive Folder Structure Template for (Early Career) Life/Natural Science Researchers", Journal, YEAR, DOI:
+
 ### ToDo
 
 * @RD: Check the list in [templates](#Templates) (added 20241129)
 * @RD: Add DOI of https://github.com/Bondoki/ParsingMetadataMD2JSON (added 20241129)
-* @JW: There's a info about a screenshot in [Sec. Download](#1.\ Download)
+* @JW: There's a info about a screenshot in [Sec. Download](#1-download)
 * @RD: Review and maybe rewrite [TL;DR](#TL;DR) 
+* @YD, JW: check the [How To Cite](#How-to-cite)
 
 
 

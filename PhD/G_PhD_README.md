@@ -1,4 +1,4 @@
-2024-12-06
+2024-12-09
 
 # Guide README of 'PhD' folder
 
@@ -19,15 +19,15 @@ PhD/
 ```
 
 
-| Part             | Purpose / Content                                                                                                                                 | README                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 1. Documents     | Where all the documents go that you collect or need at this high level. This includes administrative, notes, literature, and course-related docs. | [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)            |
-| 2. Projects      | Where the research happens (apart from reviewing literature), i.e., the place for data, analyses, code, protocols, etc.                           | [G_Projects_README](PhD/02_Projects/G_Projects_README.md)                |
-| 3. Presentations | Presentations of slides and posters are prepared here.                                                                                            | [G_Presentations_README](PhD/03_Presentations/G_Presentations_README.md) |
-| 4. Publications  | Paper writing and figure composition as well as preparation of all other to-be-published content.                                                 | [G_Publications_README](PhD/04_Publications/G_Publications_README.md)    |
-| 5. Thesis        | Thesis writing and figure composition.                                                                                                            | [G_Thesis_README](PhD/05_Thesis/G_Thesis_README.md)                      |
+| Part             | Purpose / Content                                                                                                                                 | README                                                                    |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1. Documents     | Where all the documents go that you collect or need at this high level. This includes administrative, notes, literature, and course-related docs. | [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)             |
+| 2. Projects      | Where the research happens (apart from reviewing literature), i.e., the place for data, analyses, code, protocols, etc.                           | [G_Projects_README](/PhD/02_Projects/G_Projects_README.md)                |
+| 3. Presentations | Presentations of slides and posters are prepared here.                                                                                            | [G_Presentations_README](/PhD/03_Presentations/G_Presentations_README.md) |
+| 4. Publications  | Paper writing and figure composition as well as preparation of all other to-be-published content.                                                 | [G_Publications_README](/PhD/04_Publications/G_Publications_README.md)    |
+| 5. Thesis        | Thesis writing and figure composition.                                                                                                            | [G_Thesis_README](/PhD/05_Thesis/G_Thesis_README.md)                      |
 
-A full overview of the contained folders and files can be found in the topmost [README](README.md). 
+A full overview of the contained folders and files can be found in the topmost [README](/README.md). 
 For more detailed information on folder contents and according best practices, have a look at the respective guide G\_\<CONTENT\>\_README.md.  
 
 Feel free to adapt the suggested folder structure to your specific needs and workflow.
