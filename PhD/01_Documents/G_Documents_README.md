@@ -1,4 +1,4 @@
-2024-05-07
+2024-12-09
 
 # Guide README of 'Documents' folder
 
@@ -40,12 +40,18 @@ Feel free to adapt this structure to your specific needs and workflow.
 ## Best Practice Recommendations
 
 ### Keep private data private
-* DSGVO
 
+Some care should be given if the research deals with personal data with “any information relating to an identified or identifiable natural person...”, see the [European General Data Protection Regulation](https://gdpr-info.eu). Direct identifiers should be replaced by pseudonyms or the data should be made anonymous also obeying data minimization. Your institute/faculty or ethics board can give advice of regulations you have to adhere.
+
+### Copyright
+
+Researchers should be aware of copyright laws and licenses in context of research data and metadata in their institute or country. These licences state how to use, share, and deposit data in repositories or other platforms. In the most cases, machine-generated raw research data is not considered to hold any copyright. Further processed secondary data may be subject to copyright protection if is original or creative. Every researcher should provide at least a license for published data to indicate and promote the re-use of the data.
 
 ### Writing a Data Management Plan
 
-see [G_DMP_README](PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md)
+In the early stage of the research, the Data Management Plan (DMP) should be created, see [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md). The DMP give advice how to structure, store, and share research data within the project duration and outlines the policies and procedures of funding agencies.
+
+
 
 ### Keeping notes
 * meeting notes and minutes
@@ -58,6 +64,9 @@ see [G_DMP_README](PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md)
 
 ## Further Reading
 
+* Research data: https://www.openaire.eu/how-do-i-know-if-my-research-data-is-protected
+* Personal data: https://rdm.mpdl.mpg.de/before-research/legal-and-ethical-aspects/
+* Legal issues: https://forschungsdaten.info/praxis-kompakt/english-pages/legal-issues/
 
 
 _____
