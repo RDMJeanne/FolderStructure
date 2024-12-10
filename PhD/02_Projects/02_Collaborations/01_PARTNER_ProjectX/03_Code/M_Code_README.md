@@ -1,6 +1,6 @@
 # Title
-CodeX for DatasetX of ExperimentX  
-(The name given to the code snippet CodeX for processing the dataset DatasetX of ExperimentX in ProjectX.)
+CodeX for DatasetX of ExperimentX  in PARTNER_ProjectX
+(The name given to the code snippet CodeX for processing the dataset DatasetX of ExperimentX in PARTNER_ProjectX.)
 
 # Creator
 Jay Doe  

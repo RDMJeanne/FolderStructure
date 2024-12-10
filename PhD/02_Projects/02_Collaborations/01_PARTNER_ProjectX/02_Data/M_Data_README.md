@@ -1,6 +1,6 @@
 # Title
-DatasetX of ExperimentX  
-(The name given to the datset DatasetX of ExperimentX in ProjectX.)
+DatasetX of ExperimentX  in PARTNER_ProjectX
+(The name given to the datset DatasetX of ExperimentX in PARTNER_ProjectX.)
 
 # Creator
 Jay Doe  
