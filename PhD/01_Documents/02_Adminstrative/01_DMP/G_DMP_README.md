@@ -30,12 +30,14 @@ Feel free to adapt this structure to your specific needs and workflow.
 Although it is conceivable and normal that you cannot answer all questions posed in a Data Management Plan (DMP), it helps you research data management (RDM) and overall workflow if you think about them. Keeping in mind which kinds of considerations and tasks will come up in the course of a project helps to **avoid obvious obstacles**. This can include, e.g., allocating money for storage space; talking about the responsibility to keep data accessible; formatting a dataset according to repository / journal requirements.
 
 ### Living document and guide for your RDM
+
 Setting up and maintaining a DMP up to date can be tedious. If you view it as a one-time formality, you will spend a lot of time writing the DMP without getting a lot out of it (maybe except funding). 
 
-If you use the DMP as a **project management tool**, the revenue is much higher. A DMP can serve also as a central, shareable information hub for all your RDM-related documentation, like file naming schemes, etc. It can help to inform your everyday decisions guiding you through the RDM-djungle, and to navigate your project in case you are not available.
+If you use the DMP as a **project management tool**, the revenue is much higher. A DMP can serve also as a central, shareable information hub for all your RDM-related documentation, like file naming schemes, etc. It can help to inform your everyday decisions guiding you through the RDM-jungle, and to navigate your project in case you are not available.
 
 
 ### Publishing a DMP
+
 You can publish your DMP (also with updated versions). Depending on your funding agency or journal, this may be required and there may be prescribed repositories. If you are free to decide where to publish, consider whether an institutional, discipline-specific or generalist repository is most suited. It can be sensible to publish the DMP close to the described datasets.
 
 Publishing your DMP in a repository (or at least as a supplement to a dataset / paper) is considered to be research output. As such, your work will be increasingly **recognized and credited**, following the vision of CoARA ([https://coara.eu/](https://coara.eu/)). It also means that with the assigned permanent identifier (usually a DOI, [https://www.doi.org/](https://www.doi.org/)) you can reference to your DMP and list it in your CV. Your ORCID ([https://orcid.org/](https://orcid.org/)) site will also show your work, helping to further spread the information.
@@ -44,6 +46,7 @@ The more researchers publish their DMPs, the easier it will be to identify the p
 
 
 ### Funding agencies and DMPs
+
 Most funding agencies do now encourage, ask for, or demand a DMP when applying for a grant. Many of them provide own **templates**. They may vary in question order, complexity, and length; however, the concept and general content is always the same. The focus of DMPs as desired by funders lies on reusability of data and how it is achieved and facilitated, i.e., questions revolve around management, sharing, and preservation.
 
 It may be possible (please check beforehand!) to provide a **link to your living DMP** (or a frozen version of it) so you do not need to produce a DMP only for a funder, following only one template. This helps to navigate the usual page limitation of grant proposals.
