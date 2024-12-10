@@ -39,7 +39,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 ## Further Reading
 
 * Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017). **Good enough practices in scientific computing.** PLoS Comput Biol 13(6): e1005510. DOI [10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510)
-
+* The Turing Way Community. (2024, December 10). [The Turing Way: A handbook for reproducible, ethical and collaborative research.](https://book.the-turing-way.org/reproducible-research/reproducible-research); DOI: [10.5281/zenodo.7625728](https://doi.org/10.5281/zenodo.7625728)
 
 _____
 
