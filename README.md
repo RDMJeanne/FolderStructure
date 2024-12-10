@@ -86,7 +86,7 @@ The "PhD.zip" file is structured into 5 parts:
 #### G\_READMEs and M\_READMEs
 
 * **Guidance G\_\<CONTENT\>\_README.md**  will provide some advice what to do and how to organize yourself of the appropriate content \<CONTENT\>
-* **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for linked data, see [Section Parsing M_README.md to M_README.json](#Parsing-M-README.md-to-M-README.json).
+* **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for linked data, see [Section Parsing M_README.md to M_README.json](#Parsing-M-READMEmd-to-M-READMEjson).
 
 ### Templates
 
@@ -144,6 +144,7 @@ Three essential HowTos are provided. For the references, check the according sec
 
 
 These files are also provided **separately** from the large structure in the **Templates folder** of this git repository.
+
 
 ### Parsing M_README.md to M_README.json
 
