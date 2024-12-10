@@ -1,4 +1,4 @@
-2024-05-07
+2024-12-10
 
 # Guide README of 'Presentations' folder
 
@@ -42,7 +42,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 ## Best Practice Recommendations
 
 ### Giving credit for illustrations
-When you collect foreign illustrations (e.g., memes, paper figures, etc.), note down the **source** immediately so you do not forget. You could do this in a large table for this purpose, sitting withing your foreign illustrations subfolder.
+When you collect third-party licensed illustrations (e.g., memes, paper figures, etc.), note down the **source** immediately so you do not forget. You could do this in a large table for this purpose, putting within your foreign illustrations subfolder.
 
 When you use illustrations that are not your own work in your presentations or other publications, they should be **cited** properly. In some cases, e.g., comic strips, make sure to double check under which **license** the illustrations are - it is possible that you have to ask for permission or cite the license too.
 
@@ -68,8 +68,7 @@ Before you can publish, you need to **consider**:
 
 _____
 
-This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>)
+This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>) & Ron Dockhorn (<a href="https://orcid.org/0000-0002-5268-5430"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5268-5430</a>).
 
 * git: [https://github.com/RDMJeanne/FolderStructure](https://github.com/RDMJeanne/FolderStructure)
-* DOI: 
 
