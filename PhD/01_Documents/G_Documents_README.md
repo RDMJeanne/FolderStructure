@@ -52,11 +52,9 @@ Researchers should be aware of copyright laws and licenses in context of researc
 In the early stage of the research, the Data Management Plan (DMP) should be created, see [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md). The DMP give advice how to structure, store, and share research data within the project duration and outlines the policies and procedures of funding agencies.
 
 
-
 ### Keeping notes
-* meeting notes and minutes
-* note taking methods / mindmapping, templates
-* organizing
+
+Documenting the progress of your research help you to keep track on the research process. Meeting minutes and meeting notes shared along the research group provide informations about the commitments, to-do-tasks, and common frame of reference. Using templates or mind mapping tools captures all information a clear and concise manner and facilitates the retrieval of important aspects in the research.
 
 
 ### Overview over literature
