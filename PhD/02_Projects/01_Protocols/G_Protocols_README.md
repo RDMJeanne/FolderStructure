@@ -1,4 +1,4 @@
-2024-09-02
+2024-12-10
 
 
 # Guide README of 'Protocols' folder
@@ -22,7 +22,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 
 An Electronic Lab Notebook (ELN) is software tool that aims to replace traditional lab notebooks on paper. ELNs offer space to note hypotheses, experiment setups, observations, and everything else required to **document your wetlab work**.
 
-Using an ELN has several advantages over a paper-LN, e.g.,
+Using an ELN has several advantages over a paperwise lab notebook, e.g.,
 * no handwriting illegibility issues
 * full text search
 * linking to data, files, and images, as well as external resources is possible withouzt media break
@@ -32,8 +32,10 @@ Using an ELN has several advantages over a paper-LN, e.g.,
 
 At its basis, an ELN provides you a **blank page** that you can edit as you see fit. For notes that are always taken in a similar way (e.g., repeating an experiment with changed parameters; crafting a standard buffer) it is recommended to create / use **templates and/or forms**. Often, these are provided by the ELN, shared by your colleagues, or can be found online (see below).
 
-**More information:** [https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks)
+**More information:**
+- [https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks)
 * How to keep a lab notebook, best practices: [https://research.columbia.edu/sites/default/files/content/RCT%20content/ReaDI%20Program/tutorial_LabNotebook_V9.pdf](https://research.columbia.edu/sites/default/files/content/RCT%20content/ReaDI%20Program/tutorial_LabNotebook_V9.pdf), [https://oir.nih.gov/system/files/media/file/2021-08/presentation-scientific_recordkeeping-april2014.pdf](https://oir.nih.gov/system/files/media/file/2021-08/presentation-scientific_recordkeeping-april2014.pdf) 
+* Web-service comparing ELNs: https://eln-finder.ulb.tu-darmstadt.de/home
 
 
 ### Terminology, ontologies, and tags
@@ -56,12 +58,14 @@ More ontologies: EMBL-EBI Ontology Lookup Service [https://www.ebi.ac.uk/ols4](h
 When **tagging** your protocols, notes, and data, it is a good idea to use standardized vocabulary. Ideally, you log in your metadata the ID of the used term as well as the ID of the resource (ontology / etc) it stems from to allow unambiguous identification and automatic mapping.
 
 
-**More information:** [https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies](https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies)
+**More information:** 
+- [https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies](https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies)
+- https://terminology.tib.eu/ts/
 
 
 ### Publishing and reusing protocols
 
-Since writing, testing, and revising protocols for wetlab work is scietific work, it makes sense to publish the result to make the effort visible. Conversely, one can save time by using an already existing protocol, if it is published and well enough documented.
+Since writing, testing, and revising protocols for wetlab work is scientific work, it makes sense to publish the result to make the effort visible. Conversely, one can save time by using an already existing protocol, if it is published and well enough documented.
 
 One **platform** that allows publication including a permanent globally unique identifier (a DOI, in this case), is [protocols.io](https://www.protocols.io/). Depending on your ELN, there might an interface that allows direct import and export ofg protocols. 
 
@@ -76,7 +80,8 @@ Material and methods sections as well as ELN entries / protocols usually **name 
 
 Similar to using standard terms with IDs to tag ELN entries and much more, using a resource **identifier** that links with a permanent ID to a database with ample information is a good idea. One such database is the Resource Identification Portal ([https://rrid.site/](https://rrid.site/)), which harbours identifiers and corresponding information (e.g., supplier) for plasmids, cells, organisms, tools and other resources, biosamples, and antibodies.
 
-**More information:** Bandrowski & Martone (2016). **RRIDs: A Simple Step toward Improving Reproducibility through Rigor and Transparency of Experimental Methods**. NeuroView 90(3). [https://doi.org/10.1016/j.neuron.2016.04.030](https://doi.org/10.1016/j.neuron.2016.04.030)
+**More information:** 
+- Bandrowski & Martone (2016). **RRIDs: A Simple Step toward Improving Reproducibility through Rigor and Transparency of Experimental Methods**. NeuroView 90(3). [https://doi.org/10.1016/j.neuron.2016.04.030](https://doi.org/10.1016/j.neuron.2016.04.030)
 
 
 ## Further Reading
@@ -86,8 +91,7 @@ Similar to using standard terms with IDs to tag ELN entries and much more, using
 
 _____
 
-This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>)
+This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>) & Ron Dockhorn (<a href="https://orcid.org/0000-0002-5268-5430"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5268-5430</a>).
 
 * git: [https://github.com/RDMJeanne/FolderStructure](https://github.com/RDMJeanne/FolderStructure)
-* DOI: 
 

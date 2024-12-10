@@ -1,4 +1,4 @@
-2024-12-04
+2024-12-10
 
 # PhD Project Folder Template for the Life Sciences
 
@@ -86,11 +86,11 @@ The "PhD.zip" file is structured into 5 parts:
 #### G\_READMEs and M\_READMEs
 
 * **Guidance G\_\<CONTENT\>\_README.md**  will provide some advice what to do and how to organize yourself of the appropriate content \<CONTENT\>
-* **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for linked data, see [Section Parsing M_README.md to M_README.json](#Parsing\ M\_README.md\ to\ M\_README.json).
+* **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for linked data, see [Section Parsing M_README.md to M_README.json](#Parsing-M-README.md-to-M-README.json).
 
 ### Templates
 
-Embedded in this folder structure, at the appropriate places, you can find **zipped template folders**; **metadata READMEs** for you to adapt, adopt, and fill in; and **How-Tos**. 
+Embedded in this folder structure, at the appropriate places, you can find **zipped template folders**; **metadata M\_\*\_READMEs** for you to adapt, adopt, and fill in; and **How-Tos**. 
 
 | Zipped Template Folder                                                           | Purpose / Content                                                                                               | Where (short)                                                                        |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -99,7 +99,26 @@ Embedded in this folder structure, at the appropriate places, you can find **zip
 | [YYYY-MM-DD_Presentation.zip](PhD/03_Presentations/YYYY-MM-DD_Presentation.zip)  | Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders. | [PhD/03_Presentations](PhD/03_Presentations/YYYY-MM-DD_Presentation.zip)             |
 | ManuscriptX.zip                                                                  | Folder structure for a new manuscript. Incl. figures, drafts, final subfolders                                  | PhD/04_Publications/                                                                 |
 
-Metadata READMEs are denoted with an "M_" starting the file name (guide READMEs start with "G_").
+#### Guidance READMEs
+
+Guidance READMEs are denoted with a "G_" starting the file name. They provide further information, best practice, and references about the topic.
+
+| Guidance README                                                                                  | Purpose / Content                                            |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| [[G_PhD_README]]                                                                                 | The **main** guidance README of your project as entry point. |
+| [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)                                    | Advice about administrative documents.                       |
+| [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md)                        | Considerations about the Data Management Plan                |
+| [G_Projects_README](/PhD/02_Projects/G_Projects_README.md)                                       | Considerations about the research project.                   |
+| [G_Protocols_README](/PhD/02_Projects/01_Protocols/G_Protocols_README.md)                        | Considerations about the documentation of lab work.          |
+| [G_Code_README](/PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/G_Code_README.md) | Considerations about the source code development.            |
+| [G_Presentations_README](/PhD/03_Presentations/G_Presentations_README.md)                        | Considerations about talk/posters and licensing.             |
+| [G_Publications_README](/PhD/04_Publications/G_Publications_README.md)                           | Considerations about publishing papers and licensing.        |
+| [G_Thesis_README](/PhD/05_Thesis/G_Thesis_README.md)                                             | Considerations about writing the thesis.                     |
+
+
+#### Metadata READMEs
+
+Metadata READMEs are denoted with a "M_" starting the file name. They are used to provide mostly descriptive, administrative and legal information.
 
 | Metadata README                                                                                                                                                                                  | Purpose / Content                                                                                       | Where (short)                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -111,6 +130,9 @@ Metadata READMEs are denoted with an "M_" starting the file name (guide READMEs 
 | M_Presentation_Metadata.md                                                                                                                                                                       | Copy and fill in information on individual presentations (e.g., for upload on Zenodo)                   | PhD/03_Presentation/                                                                                                                                                                                                                                                                       |
 | [M_Fig1A_README.md](PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md)  [M_Fig1_README.md](PhD/05_Thesis/01_Figures/Fig1/M_Fig1_README.md)                                      | Copy and fill in information on figures used in publications (e.g. Manuscripts or Thesis)               | [PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/](PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md)  [PhD/05_Thesis/01_Figures/Fig1/](PhD/05_Thesis/01_Figures/Fig1/M_Fig1_README.md)                                                                                  |
 | [M_SFigX_README.md](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)                                                                                                          | Copy and fill in information on supplementary figures used in publications (e.g. Manuscripts or Thesis) | [PhD/04_Publications/ManuscriptX/01_Figures/SFigX/](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)                                                                                                                                                                    |
+
+
+#### How-to
 
 Three essential HowTos are provided. For the references, check the according section below.
 
@@ -125,7 +147,7 @@ These files are also provided **separately** from the large structure in the **T
 
 ### Parsing M_README.md to M_README.json
 
-We recommend to provide as much metadata information as possible to find and understand your data in your project tree. Therefore, this repository also contains dedicated M\_\<CONTENT\>\_README.md files based on the [Dublin Core keywords](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). To enhance machine-interoperability along with a folder structure, we provide a simplistic parser to convert the Markdown to JSON files for further data processing, e.g. to create a database catalog for your files or to provide additional metadata in public repository. The parser and further documentation can be found on [DOI:doi](zenodo.) with the source code available on [github](https://github.com/Bondoki/ParsingMetadataMD2JSON). 
+We recommend to provide as much metadata information as possible to find and understand your data in your project tree. Therefore, this repository also contains dedicated M\_\<CONTENT\>\_README.md files based on the [Dublin Core keywords](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). To enhance machine-interoperability along with a folder structure, we provide a simplistic parser to convert the Markdown to JSON files for further data processing, e.g. to create a database catalog for your files or to provide additional metadata in public repository. The parser and further documentation can be found on [DOI:doi](https://doi.zenodo.org) with the source code available on [github](https://github.com/Bondoki/ParsingMetadataMD2JSON). 
 
 The following keywords will be parsed and converted:
 
