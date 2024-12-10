@@ -29,7 +29,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 
 - Use comments to explain code functionality, logic, and purpose
 - Provide ReadMe files for installation, requirements, and usage
-- Use metadata [M_Code_README](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/M_Code_README.md) to describe code, such as title, author, and license.
+- Use metadata [M_Code_README.md](/PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/M_Code_README.md) to describe code, such as title, author, and license.
 ### Code Sharing and Licensing
 
 - Consider sharing code through public platforms like [github](https://github.com/) or [gitlab](https://about.gitlab.com/)

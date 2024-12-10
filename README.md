@@ -105,7 +105,7 @@ Guidance READMEs are denoted with a "G_" starting the file name. They provide fu
 
 | Guidance README                                                                                  | Purpose / Content                                            |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| [[G_PhD_README]]                                                                                 | The **main** guidance README of your project as entry point. |
+| [G_PhD_README](/PhD/G_PhD_README.md)                                                             | The **main** guidance README of your project as entry point. |
 | [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)                                    | Advice about administrative documents.                       |
 | [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md)                        | Considerations about the Data Management Plan                |
 | [G_Projects_README](/PhD/02_Projects/G_Projects_README.md)                                       | Considerations about the research project.                   |
