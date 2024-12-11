@@ -115,6 +115,7 @@ Guidance READMEs are denoted with a "G_" starting the file name. They provide fu
 | [G_Publications_README](/PhD/04_Publications/G_Publications_README.md)                                  | Considerations about publishing papers and licensing.                |
 | [G_ManuscriptFigures_README](/PhD/04_Publications/ManuscriptX/01_Figures/G_ManuscriptFigures_README.md) | Considerations about creating and publishing figures in manuscripts. |
 | [G_Thesis_README](/PhD/05_Thesis/G_Thesis_README.md)                                                    | Considerations about writing the thesis.                             |
+| [G_ThesisFigures_README](/PhD/05_Thesis/01_Figures/G_ThesisFigures_README.md)                           | Considerations about creating and publishing figures in thesis.      |
 
 
 #### Metadata READMEs
@@ -288,7 +289,8 @@ PhD/
 │   │   │   ├── Fig1_Caption.txt
 │   │   │   └── M_Fig1_README.md
 │   │   ├── zzz/
-│   │   └── FigX.zip
+│   │   ├── FigX.zip
+│   │   └── G_ThesisFigures_README.md
 │   ├── 02_Drafts/
 │   │   └── zzz/
 │   ├── 03_Submitted/

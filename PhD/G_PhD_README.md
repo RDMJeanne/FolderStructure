@@ -1,4 +1,4 @@
-2024-12-09
+2024-12-11
 
 # Guide README of 'PhD' folder
 
@@ -28,7 +28,7 @@ PhD/
 | 5. Thesis        | Thesis writing and figure composition.                                                                                                            | [G_Thesis_README](/PhD/05_Thesis/G_Thesis_README.md)                      |
 
 A full overview of the contained folders and files can be found in the topmost [README](/README.md). 
-For more detailed information on folder contents and according best practices, have a look at the respective guide G\_\<CONTENT\>\_README.md.  
+For more detailed information on folder contents and according best practices, have a look at the respective guide G\_\<CONTENT\>\_README.md. Also, provide as much metadata as possible in the respective M\_\<CONTENT\>\_README.md starting with [M_PhD_README](/PhD/M_PhD_README.md).  
 
 Feel free to adapt the suggested folder structure to your specific needs and workflow.
 
