@@ -103,17 +103,18 @@ Embedded in this folder structure, at the appropriate places, you can find **zip
 
 Guidance READMEs are denoted with a "G_" starting the file name. They provide further information, best practice, and references about the topic.
 
-| Guidance README                                                                                  | Purpose / Content                                            |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| [G_PhD_README](/PhD/G_PhD_README.md)                                                             | The **main** guidance README of your project as entry point. |
-| [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)                                    | Advice about administrative documents.                       |
-| [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md)                        | Considerations about the Data Management Plan                |
-| [G_Projects_README](/PhD/02_Projects/G_Projects_README.md)                                       | Considerations about the research project.                   |
-| [G_Protocols_README](/PhD/02_Projects/01_Protocols/G_Protocols_README.md)                        | Considerations about the documentation of lab work.          |
-| [G_Code_README](/PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/G_Code_README.md) | Considerations about the source code development.            |
-| [G_Presentations_README](/PhD/03_Presentations/G_Presentations_README.md)                        | Considerations about talk/posters and licensing.             |
-| [G_Publications_README](/PhD/04_Publications/G_Publications_README.md)                           | Considerations about publishing papers and licensing.        |
-| [G_Thesis_README](/PhD/05_Thesis/G_Thesis_README.md)                                             | Considerations about writing the thesis.                     |
+| Guidance README                                                                                         | Purpose / Content                                                    |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [G_PhD_README](/PhD/G_PhD_README.md)                                                                    | The **main** guidance README of your project as entry point.         |
+| [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)                                           | Advice about administrative documents.                               |
+| [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md)                               | Considerations about the Data Management Plan                        |
+| [G_Projects_README](/PhD/02_Projects/G_Projects_README.md)                                              | Considerations about the research project.                           |
+| [G_Protocols_README](/PhD/02_Projects/01_Protocols/G_Protocols_README.md)                               | Considerations about the documentation of lab work.                  |
+| [G_Code_README](/PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/G_Code_README.md)        | Considerations about the source code development.                    |
+| [G_Presentations_README](/PhD/03_Presentations/G_Presentations_README.md)                               | Considerations about talk/posters and licensing.                     |
+| [G_Publications_README](/PhD/04_Publications/G_Publications_README.md)                                  | Considerations about publishing papers and licensing.                |
+| [G_ManuscriptFigures_README](/PhD/04_Publications/ManuscriptX/01_Figures/G_ManuscriptFigures_README.md) | Considerations about creating and publishing figures in manuscripts. |
+| [G_Thesis_README](/PhD/05_Thesis/G_Thesis_README.md)                                                    | Considerations about writing the thesis.                             |
 
 
 #### Metadata READMEs

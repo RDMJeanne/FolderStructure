@@ -35,6 +35,16 @@ In here you find the following parts / folders:
 
 Feel free to adapt this structure to your specific needs and workflow.
 
+#### Metadata READMEs
+
+Metadata READMEs are denoted with a "M_" starting the file name. They are used to provide mostly descriptive, administrative and legal information.
+
+| Metadata README                                                                          | Purpose / Content                                                                             |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [M_Fig1A_README.md](/PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md) | Copy and fill in information on figures used in publications (e.g. Manuscripts)               |
+| [M_SFigX_README.md](/PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md) | Copy and fill in information on supplementary figures used in publications (e.g. Manuscripts) |
+| [M_FigX_README.md](/PhD/04_Publications/ManuscriptX/01_Figures/FigX/M_FigX_README.md)    | Generic templates for metadata of figures in publications (e.g. Manuscripts)                  |
+
 
 ## Best Practice Recommendations
 
@@ -80,8 +90,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 
 _____
 
-This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>)
+This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a href="https://orcid.org/0000-0002-3246-7604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-3246-7604</a>) & Jeanne  Wilbrandt (<a href="https://orcid.org/0000-0002-0363-3837"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0363-3837</a>) & Ron Dockhorn (<a href="https://orcid.org/0000-0002-5268-5430"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5268-5430</a>).
 
 * git: [https://github.com/RDMJeanne/FolderStructure](https://github.com/RDMJeanne/FolderStructure)
-* DOI: 
 
