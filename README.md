@@ -351,6 +351,7 @@ If you would like to acknowledge this project, you can cite as follows:
 ### Research Data Management (RDM) Starters and Best Practices
 * The Research Data Management toolkit for Life Sciences: https://rdmkit.elixir-europe.org/
 * The Research Data Management Workbook: https://caltechlibrary.github.io/RDMworkbook/
+* Data Management Expert Guide: https://dmeg.cessda.eu/ 
 * File Naming: https://www.herox.com/dataworks/round/2873/entry/48095?from=admin&sort=date&name=&status=all
   
 
