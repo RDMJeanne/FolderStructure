@@ -4,16 +4,17 @@
 
 This repository contains 
 
-1. A template folder structure for PhD work in the life sciences, a one-stop-shop for an organised approach.
+1. A template folder structure for PhD work in the life/natural sciences, a one-stop-shop for an organised approach.
 2. A collection of all the lower-level templates (zipped folder structures and READMEs)
 
 ## TL;DR
 
-To get started with this PhD project folder template, download the "PhD.zip" file and unzip it to your desired location. Review the guide G\_\*\_READMEs to understand the purpose and best practices for each folder. Adjust the structure to your needs and edit the metadata M\_\*\_READMEs to capture your own project information. Add your files to the structure and document your metadata as you progress through your PhD. By following these steps, you can use this template to streamline your workflow and improve your research productivity. \[Summarized by Meta LLaMA 3.1 8B Instruct\]
+To get started with this PhD project folder template, **download the "PhD.zip"** file and unzip it to your desired location. **Review the guidance** G\_\*\_READMEs to understand the purpose and best practices for each folder. Adjust the structure to your needs and **edit the metadata M\_\*\_READMEs** to capture your own project information. **Add your files** to the structure and document your metadata as you progress through your PhD. By following these steps, you can use this template to streamline your workflow and improve your research productivity. \[Summarized by Meta LLaMA 3.1 8B Instruct\]
+
 ## Aim
 
-This folder structure is intended to support individual **research data management practices related** to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. 
-Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at section **[References RDM](#References)**. For easy-to-read and easy-to-write experience we use [Markdown](https://daringfireball.net/projects/markdown/) \*.md files enriching plain text documents with some formatting syntax. 
+This folder structure is intended to support individual **research data management practices** related to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. Researchers from other disciplines and stages are also very welcome to use and adapt the template according to their needs.
+Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at the section **[References RDM](##References)**. For easy-to-read and easy-to-write experience we use [Markdown](https://daringfireball.net/projects/markdown/) \*.md files enriching plain text documents with some formatting syntax. 
 
 The folder structure aims to be:
 
@@ -24,7 +25,7 @@ The folder structure aims to be:
 
 Each folder in the structure contains a **guide G\_\*\_README.md** that explains what this folder is about and the recommended use. Additionally, folders can hold a **metadata M\_\*\_README.md** that is ready to be filled with your **own metadata**, as appropriate for the respective folder. 
 
-Naturally, you will not need all of the provided parts and maybe need something else in addition. Feel **free to modify** the structure to your needs, once you copied it to your working station (see section X). Accordingly, we intend this folder structure to be a working example.
+Naturally, you will not need all of the provided parts and maybe need something else in addition. Feel **free to modify** the structure to your needs, once you copied it to your working station. Accordingly, we intend this folder structure to be a working example.
 
 
 ## Features
@@ -33,16 +34,15 @@ Naturally, you will not need all of the provided parts and maybe need something 
 	* Folder and file **naming schemes** following best practices
 	* **Guide G\_\*\_READMEs** with explanations and tips, how the structure is intended to be used and how to implement best practices at the respective level
 	* **Metadata M\_\*\_READMEs** ready for your input of metadata. These try to capture as many options as possible, thus working as a reminder on which metadata to collect where. Additionally, you can use them as templates for more folders or in other contexts (e.g., in an ELN).
-	* **HowTos** as a starting point for your scientific reading and writing journey.
-	* **zzz folders**: The suggested place for files that are older version, but are not ready to be deleted. When the project ends, you can delete these folders, since you probably did not look into them again.
+	* **zzz folders**: The suggested place for files that are older version, but not ready to be deleted. When the project ends, you can delete these folders, since you probably did not look into them again.
 	* **zzz-from-joe folder**: For incoming files from collaborators that do not fit your naming conventions. When you use an incoming file, make a copy, change the name, and document that you did this.
 
-2. Collection of all the lower-level **templates**
+2. Collection of all the lower-level **templates** (zipped subfolder structures)
 	* Allows to quickly set up a standardised folder for your next project / experiment / presentation, etc.
 	* Can be used outside of our large folder structure
 
-3. Collection of Best Practice **Recommendations**
-	* The recommendations are distributed onto guide READMEs embedded in the structure. 
+3. Collection of best practice **recommendations**
+	* The recommendations are distributed onto guidance READMEs embedded in the structure. 
 	* Additionally, a collection file serves as overview for quick reference.
 
 
@@ -61,19 +61,19 @@ The READMEs follow this scheme:
 	* and \<CONTENT\> is a single word indicating the content of the folder it resides in.
 
 Few folders are either named with the scheme
-* \<YYYY\>_Year#, 
+* \<YYYY\>_TITLE, 
 	* where the \<YYYY\> is supposed to be resolved to an actual year, 
-	* with the # as the year count relative to starting the PhD.
+	* and \<TITLE\> designates the course content.
 
 Another scheme is this:
-* \<YYYYMMDD\>\_\<CONTENT\>, 
-	* where \<YYYYMMDD\> is supposed to be resolved to the relevant date in [ISO 8601](https://www.iso.org/obp/ui/en/#iso:std:iso:8601:-1:ed-1:v1:en:term:3.1.3.1) format with YYYY as year, MM as month, and DD as day.
+* \<YYYY-MM-DD\>\_\<CONTENT\>, 
+	* where \<YYYY-MM-DD\> is supposed to be resolved to the relevant date in [ISO 8601](https://www.iso.org/obp/ui/en/#iso:std:iso:8601:-1:ed-1:v1:en:term:3.1.3.1) format with YYYY as year, MM as month, and DD as day.
 
-Experiment can also mean method for you.
+Experiment can also mean method / test / hypthesis / small work package for you.
 
 ### Parts
 
-The "PhD.zip" file is structured into 5 parts:
+The "PhD.zip" file / the folder structure is structured into 5 parts:
 
 | Part         		| Purpose / Content   |
 |--------------		|-----------|
@@ -83,21 +83,22 @@ The "PhD.zip" file is structured into 5 parts:
 | 4. Publications 	| Paper writing and figure composition |
 | 5. Thesis 		| Thesis writing and figure composition |
 
-#### G\_READMEs and M\_READMEs
+#### Folder templates and READMEs
 
+* **Zipped folder templates** are provided for substructures that we anticipate to be recreated frequently.
 * **Guidance G\_\<CONTENT\>\_README.md**  will provide some advice what to do and how to organize yourself of the appropriate content \<CONTENT\>
 * **Metadata M\_\<CONTENT\>\_README.md** are descriptive files written also in Markdown, but structured similar to the [15 Dublin Core elements](https://www.dublincore.org/resources/metadata-basics/) providing minimal information about your project/folder/files and will allow further machine-processing for linked data, see [Section Parsing M_README.md to M_README.json](#parsing-m_readmemd-to-m_readmejson).
 
 ### Templates
 
-Embedded in this folder structure, at the appropriate places, you can find **zipped template folders**; **metadata M\_\*\_READMEs** for you to adapt, adopt, and fill in; and **How-Tos**. 
+Embedded in this folder structure, at the appropriate places, you can find **zipped template folders** and **metadata M\_\*\_READMEs** for you to adapt, adopt, and fill in. 
 
 | Zipped Template Folder                                                           | Purpose / Content                                                                                               | Where (short)                                                                        |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [YYYYMMDD_ExperimentX.zip](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX.zip) | Folder structure for a new experiment / method. Incl. folders for protocols, data, code, results.               | [PhD/02_Projects/03_ProjectX/](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX.zip) |
+| [YYYY-MM-DD_ExperimentX.zip](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX.zip) | Folder structure for a new experiment / method. Incl. folders for protocols, data, code, results.               | [PhD/02_Projects/03_ProjectX/](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX.zip) |
 | [00_ProjectX.zip](PhD/02_Projects/00_ProjectX.zip)                               | Folder structure for a new project. Incl. ExperimentX subfolder.                                                | [PhD/02_Projects/](PhD/02_Projects/00_ProjectX.zip)                                  |
-| [YYYY-MM-DD_Presentation.zip](PhD/03_Presentations/YYYY-MM-DD_Presentation.zip)  | Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders. | [PhD/03_Presentations](PhD/03_Presentations/YYYY-MM-DD_Presentation.zip)             |
-| ManuscriptX.zip                                                                  | Folder structure for a new manuscript. Incl. figures, drafts, final subfolders                                  | PhD/04_Publications/                                                                 |
+| [YYYY-MM-DD_PresentationPosterTalk.zip](PhD/03_Presentations/YYYY-MM-DD_PresentationPosterTalk.zip)  | Folder structure for a new presentation / poster. Incl. figures, other resources, and archive (zzz) subfolders. | [PhD/03_Presentations](PhD/03_Presentations/YYYY-MM-DD_PresentationPosterTalk.zip)             |
+| [ManuscriptX.zip](PhD/04_Publications/ManuscriptX.zip)                                                               | Folder structure for a new manuscript. Incl. figures, drafts, final subfolders                                  | [PhD/04_Publications/](PhD/04_Publications/ManuscriptX.zip)                                                                 |
 
 #### Guidance READMEs
 
@@ -125,32 +126,21 @@ Metadata READMEs are denoted with a "M_" starting the file name. They are used t
 | Metadata README                                                                                                                                                                                  | Purpose / Content                                                                                       | Where (short)                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [M_ProjectX_README.md](PhD/02_Projects/03_ProjectX/M_ProjectX_README.md)                                                                                                                         | Copy and fill in information on individual projects.                                                    | [PhD/02_Projects/03_ProjectX](PhD/02_Projects/03_ProjectX/M_ProjectX_README.md)                                                                                                                                                                                                            |
-| [M_ExperimentX_README.md](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/M_ExperimentX_README.md)                                                                                              | Copy and fill in information on individual experiments / methods.                                       | [PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/M_ExperimentX_README.md)                                                                                                                                                              |
-| [M_Data_README.md](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/02_Data/M_Data_README.md) [M_Data_README.md](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/M_Data_README.md) | Copy and fill in information on individual data sets.                                                   | [PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/02_Data/](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/02_Data/M_Data_README.md) [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/M_Data_README.md)    |
-| [M_Code_README.md](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/M_Code_README.md)<br>[M_Code_README.md](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/M_Code_README.md)   | Copy and fill in information on individual source code.                                                 | [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/M_Code_README.md)<br>[PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/M_Code_README.md) |
-| [M_PARTNER_project_README.md](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/M_PARTNER_project_README.md)                                                                                 | Copy and fill in information on projects by collaboration partners.                                     | [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/M_PARTNER_project_README.md)                                                                                                                                                |
-| M_Presentation_Metadata.md                                                                                                                                                                       | Copy and fill in information on individual presentations (e.g., for upload on Zenodo)                   | PhD/03_Presentation/                                                                                                                                                                                                                                                                       |
+| [M_ExperimentX_README.md](PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/M_ExperimentX_README.md)                                                                                              | Copy and fill in information on individual experiments / methods.                                       | [PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/M_ExperimentX_README.md)                                                                                                                                                              |
+| [M_Data_README.md](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/02_Data/M_Data_README.md) [M_Data_README.md](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/M_Data_README.md) | Copy and fill in information on individual data sets.                                                   | [PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/02_Data/](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/02_Data/M_Data_README.md) [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/02_Data/M_Data_README.md)    |
+| [M_Code_README.md](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/03_Code/M_Code_README.md)<br>[M_Code_README.md](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/03_Code/M_Code_README.md)   | Copy and fill in information on individual source code.                                                 | [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/M_Code_README.md)<br>[PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/03_Code/](PhD/02_Projects/03_ProjectX/YYYY-MM-DD_ExperimentX/03_Code/M_Code_README.md) |
+| [M_PARTNER_ProjectX_README.md](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/M_PARTNER_ProjectX_README.md)                                                                                 | Copy and fill in information on projects by collaboration partners.                                     | [PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/](PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/M_PARTNER_ProjectX_README.md)                                                                                                                                                |
+| [M_Presentation_Metadata.md](PhD/03_Presentations/)                                                                                                                                                                       | Copy and fill in information on individual presentations (e.g., for upload on Zenodo)                   | [PhD/03_Presentations/](PhD/03_Presentations)                                                                                                                                                                                                                                                                       |
 | [M_Fig1A_README.md](PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md)  [M_Fig1_README.md](PhD/05_Thesis/01_Figures/Fig1/M_Fig1_README.md)                                      | Copy and fill in information on figures used in publications (e.g. Manuscripts or Thesis)               | [PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/](PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md)  [PhD/05_Thesis/01_Figures/Fig1/](PhD/05_Thesis/01_Figures/Fig1/M_Fig1_README.md)                                                                                  |
-| [M_SFigX_README.md](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)                                                                                                          | Copy and fill in information on supplementary figures used in publications (e.g. Manuscripts or Thesis) | [PhD/04_Publications/ManuscriptX/01_Figures/SFigX/](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)                                                                                                                                                                    |
+| [M_SFigX_README.md](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)                                                                                                          | Copy and fill in information on supplementary figures used in publications (e.g. Manuscripts or Thesis) | [PhD/04_Publications/ManuscriptX/01_Figures/SFigX/](PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md)  
+| [M_PhD_README.md](PhD/M_PhD_README.md)																			| Fill in administrative metadata regarding your PhD.         						   | [PhD/](PhD/M_PhD_README.md)	
+| [M_NamingSchemes.md](PhD/M_NamingSchemes.md)																			| Record the naming schemes you add to the ones we already noted here.					| [PhD/](PhD/M_NamingSchemes.md)	
 
-
-#### How-to
-
-Three essential HowTos are provided. For the references, check the according section below.
-
-| How-to   			| Purpose / Content 	| Where (short) |
-| -------- 			| ------- 			| ------- |
-| ReadPaperTemplate.pdf  	| Structured paper reading. | PhD/01/03/  |
-| HowToWriteNatureAbstracts.pdf	| Illustrates components and advice on writing a paper abstract.  | PhD/04/ |
-| HowToWriteFigureCaptions.pdf	| Some best practice tips and examples on scientific figure caption writing.  | PhD/04/ |
-
-
-These files are also provided **separately** from the large structure in the **Templates folder** of this git repository.
 
 
 ### Parsing M_README.md to M_README.json
 
-We recommend to provide as much metadata information as possible to find and understand your data in your project tree. Therefore, this repository also contains dedicated M\_\<CONTENT\>\_README.md files based on the [Dublin Core keywords](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). To enhance machine-interoperability along with a folder structure, we provide a simplistic parser to convert the Markdown to JSON files for further data processing, e.g. to create a database catalog for your files or to provide additional metadata in public repository. The parser and further documentation can be found on [DOI:doi](https://doi.zenodo.org) with the source code available on [github](https://github.com/Bondoki/ParsingMetadataMD2JSON). 
+We recommend to provide as much metadata information as possible to find and understand your data in your project tree. Therefore, this repository also contains dedicated M\_\<CONTENT\>\_README.md files based on the [Dublin Core keywords](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). To enhance machine-interoperability along with a folder structure, we provide a simplistic parser to convert the Markdown to JSON files for further data processing, e.g., to create a database catalog for your files or to provide additional metadata in public repository. The parser and further documentation can be found on [DOI:doi](https://doi.zenodo.org) with the source code available on [github](https://github.com/Bondoki/ParsingMetadataMD2JSON). 
 
 The following keywords will be parsed and converted:
 
@@ -194,14 +184,12 @@ PhD/
 │   │   └── 02_Grants/
 │   ├── 03_Notes/
 │   ├── 04_Literature/
-│   │   ├── ReadPaperTemplate.pdf
-│   │   └── ReadPaper_README.md
 │   ├── 05_Courses/
-│   │   ├── YYYY_Year1/
-│   │   └── YYYY_Year2/
+│   │   ├── YYYY_TITLE/
 │   └── G_Documents_README.md
 ├── 02_Projects/
 │   ├── 01_Protocols/
+│   │   └── G_Protocols_README.md.md
 │   ├── 02_Collaborations/
 │   │   ├── Collab_Overview.md
 │   │   ├── 01_PARTNER_project/
@@ -214,11 +202,10 @@ PhD/
 │   │   │   │   ├── G_Code_README.md
 |   |   |   |   └── M_Code_README.md
 │   │   │   ├── 04_Results/
-│   │   │   └── M_PARTNER_project_README.md
-│   │   ├── 00_PARTNER_project.zip
+│   │   │   └── M_PARTNER_ProjectX_README.md
+│   │   ├── 00_PARTNER_ProjectX.zip
 │   │   └── zzz_from-joe/
 │   ├── 03_ProjectX/
-│   │   ├── M_ProjextX_README.md
 │   │   ├── YYYY-MM-DD_ExperimentX/
 │   │   │   ├── 01_Protocols/
 │   │   │   ├── 02_Data/
@@ -230,7 +217,8 @@ PhD/
 |   |   |   |   └── M_Code_README.md
 │   │   │   ├── 04_Results/
 │   │   │   └── M_ExperimentX_README.md
-│   │   └── YYYY-MM-DD_ExperimentX.zip
+│   │   ├── YYYY-MM-DD_ExperimentX.zip
+│   │   └── M_ProjextX_README.md
 │   ├── G_Projects_README.md
 │   └── 00_ProjectX.zip
 ├── 03_Presentations/
@@ -250,11 +238,11 @@ PhD/
 │   │       └── zzz/
 │   ├── 03_Retreats/
 │   ├── 04_Illustrations/
-│   │   ├── 01_Foreign/
-│   │   └── 02_Own/
+│   │   ├── 01_ThirdParty/
+│   │   └── 02_SelfCreated/
 │   ├── G_Presentations_README.md
 │   ├── M_Presentation_Metadata.md
-│   └── YYYY-MM-DD_Presentation.zip
+│   └── YYYY-MM-DD_PresentationPosterTalk.zip
 ├── 04_Publications/
 │   ├── ManuscriptX/
 │   │   ├── 01_Figures/
@@ -278,8 +266,6 @@ PhD/
 │   │   ├── 05_Published/
 │   │   └── ManuscriptX_DataOverview.xlsx
 │   ├── G_Publications_README.md
-│   ├── HowToWriteFigureCaptions.pdf
-│   ├── HowToWriteNatureAbstracts.pdf
 │   └── ManuscriptX.zip
 ├── 05_Thesis/
 │   ├── 01_Figures/
@@ -289,8 +275,8 @@ PhD/
 │   │   │   ├── Fig1_Caption.txt
 │   │   │   └── M_Fig1_README.md
 │   │   ├── zzz/
-│   │   ├── FigX.zip
-│   │   └── G_ThesisFigures_README.md
+│   │   ├── G_ThesisFigures_README.md
+│   │   └── FigX.zip
 │   ├── 02_Drafts/
 │   │   └── zzz/
 │   ├── 03_Submitted/
@@ -299,7 +285,8 @@ PhD/
 │   ├── 06_Defense/
 │   └── G_Thesis_README.md
 ├── misc/
-└── M_PhD_README.md
+├── M_PhD_README.md
+└── M_NamingSchemes.md
 ```
 
 (Tree was generated with [https://www.text-tree-generator.com/](https://www.text-tree-generator.com/))
@@ -310,7 +297,10 @@ Follow these steps to get started with the complete or parts of the provided fol
 
 ### 1. Download
 
-To download an individual .zip file from GitHub, click the button `BUTTON` and allow your browser to do its thing (see also screenshot below).
+To download an individual .zip file from GitHub, click the button `Download raw file` and allow your browser to do its thing (see also screenshot below).
+
+<img width="150" alt="Download button" src="https://github.com/user-attachments/assets/32892431-92a5-4568-b92a-728baea945ef"/>
+
 
 You can also download the whole repository by clicking `Code` and then `Download .zip`. This will pack all files in another container.
 
@@ -321,7 +311,7 @@ Once you retrieved your desired .zip file from your download folder, move it to 
 ### 3. Review structure and guides
 
 We recommend that you familiarize yourself with the structure and guides.
-The guide READMEs (denoted with "G_") are there to inform you about the purpose and best practices regarding the respective folder. 
+The guidance READMEs (denoted with "G_") are there to inform you about the purpose and best practices regarding the respective folder. 
 
 ### 4. Adjust to your needs
 
@@ -337,7 +327,7 @@ As you progress through your PhD, add files to your structure. Remember to docum
 
 ### 7. Cite
 
-If you would like to acknowledge this project, you can cite as follows:
+If you would like to acknowledge this project, you can cite it, see below.
 
 
 
@@ -354,13 +344,6 @@ If you would like to acknowledge this project, you can cite as follows:
 * Data Management Expert Guide: https://dmeg.cessda.eu/ 
 * File Naming: https://www.herox.com/dataworks/round/2873/entry/48095?from=admin&sort=date&name=&status=all
   
-
-### For the HowTos
-* ReadPaperTemplate:
-* HowToWriteNatureAbstracts:
-* HowToWriteFigureCaptions:
-
-
 ____
 ## This Project
 
@@ -391,7 +374,6 @@ This project is licensed unter XXX and YYY and made public available free of cha
 
 * @RD: Check the list in [templates](#Templates) (added 20241129)
 * @RD: Add DOI of https://github.com/Bondoki/ParsingMetadataMD2JSON (added 20241129)
-* @JW: There's a info about a screenshot in [Sec. Download](#1-download)
 * @RD: Review and maybe rewrite [TL;DR](#TL;DR) 
 * @YD, JW: check the [How To Cite](#How-to-cite)
 
