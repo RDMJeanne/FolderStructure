@@ -30,7 +30,7 @@ Note that **figure** is used here, for conciseness, also as a synonym for **tabl
 
 | Part         		| Purpose / Content   |
 |--------------		|-----------|
-| 1. Fig1A 		| Contains figure panel 1A (for example) as well as the code and data used to produce exactly this panel. The corresponding M_Fig1A_README supports according metadata collection, while Fig1A_Caption.md invites to immediately record the figure's caption |
+| 1. Fig1A 		| Contains figure panel 1A (for example) as well as the code and data used to produce exactly this panel. The corresponding M_Fig1A_README supports according metadata collection, while Fig1A_Caption.md invites to immediately record the figure's caption. |
 | 2. SFigX  		| Contains supplementary figure X (for example), otherwise identical to Fig1A. |
 | 2. FigX.zip  		| Contains zipped folder structure identical to Fig1A as a template.|
 
