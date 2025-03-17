@@ -77,7 +77,7 @@ ______
 
 # Help
 * Briney (2020). File Naming Convention Worksheet. https://doi.org/10.7907/894q-zr22.
-* Goldman (202). How to Name a File. Checklist. https://osf.io/dpu45/
+* Goldman (2020). How to Name a File. Checklist. https://osf.io/dpu45/
 
 _____
 
