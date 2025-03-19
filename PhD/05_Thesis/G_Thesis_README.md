@@ -54,7 +54,7 @@ Writing a thesis can be exhausting and frustrating. Make sure to look out for yo
 - Seek regular and frequent **feedback** from your supervisors.
 
 ### The Writing Process
-There are books and tips available on how to keep a thesis project manageable and how to write it (well), we strongly recommend you consult at least one of those, see below.
+There are books and tips available on how to keep a thesis project manageable and how to write it (well), we strongly recommend you consult at least one of those, see examples below.
 Learn from other successful theses in your field.
 
 ## Further Reading
