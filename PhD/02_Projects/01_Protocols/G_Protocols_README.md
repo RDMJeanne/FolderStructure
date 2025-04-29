@@ -33,9 +33,9 @@ Using an ELN has several advantages over a paperwise lab notebook, e.g.,
 At its basis, an ELN provides you a **blank page** that you can edit as you see fit. For notes that are always taken in a similar way (e.g., repeating an experiment with changed parameters; crafting a standard buffer) it is recommended to create / use **templates and/or forms**. Often, these are provided by the ELN, shared by your colleagues, or can be found online (see below).
 
 **More information:**
-- [https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks)
+- Adam & Lindstädt (2021). **ELN Guide: Electronic laboratory notebooks in the context of research data management and good research practice – a guide for the life sciences**. ZBMed. [https://doi.org/10.4126/FRL01-006425772](https://doi.org/10.4126/FRL01-006425772)
 * How to keep a lab notebook, best practices: [https://research.columbia.edu/sites/default/files/content/RCT%20content/ReaDI%20Program/tutorial_LabNotebook_V9.pdf](https://research.columbia.edu/sites/default/files/content/RCT%20content/ReaDI%20Program/tutorial_LabNotebook_V9.pdf), [https://oir.nih.gov/system/files/media/file/2021-08/presentation-scientific_recordkeeping-april2014.pdf](https://oir.nih.gov/system/files/media/file/2021-08/presentation-scientific_recordkeeping-april2014.pdf) 
-* Web-service comparing ELNs: https://eln-finder.ulb.tu-darmstadt.de/home
+* Web-service comparing ELNs: [https://eln-finder.ulb.tu-darmstadt.de/home](https://eln-finder.ulb.tu-darmstadt.de/home)
 
 
 ### Terminology, ontologies, and tags
@@ -67,12 +67,12 @@ When **tagging** your protocols, notes, and data, it is a good idea to use stand
 
 Since writing, testing, and revising protocols for wetlab work is scientific work, it makes sense to publish the result to make the effort visible. Conversely, one can save time by using an already existing protocol, if it is published and well enough documented.
 
-One **platform** that allows publication including a permanent globally unique identifier (a DOI, in this case), is [protocols.io](https://www.protocols.io/). Depending on your ELN, there might an interface that allows direct import and export ofg protocols. 
+One **platform** that allows publication including a permanent globally unique identifier (a DOI, in this case), is [protocols.io](https://www.protocols.io/). Depending on your ELN, there might an interface that allows direct import and export of protocols. 
 
 **More information:** 
-* [https://becker.wustl.edu/news/how-to-make-your-protocols-complete-interactive-and-citable/](https://becker.wustl.edu/news/how-to-make-your-protocols-complete-interactive-and-citable/)
-* [https://www.theneuron.ai/write/work-document/protocol](https://www.theneuron.ai/write/work-document/protocol)
-* Weissgerber (2023). Structuring a step-by-step, reusable protocol. [https://osf.io/dyu5f](https://osf.io/dyu5f)
+* Complete, interactive, citable protocols. [https://becker.wustl.edu/news/how-to-make-your-protocols-complete-interactive-and-citable/](https://becker.wustl.edu/news/how-to-make-your-protocols-complete-interactive-and-citable/)
+* How to write a protocol. [https://www.theneuron.ai/write/work-document/protocol](https://www.theneuron.ai/write/work-document/protocol)
+* Weissgerber (2023). **Structuring a step-by-step, reusable protocol**. [https://osf.io/dyu5f](https://osf.io/dyu5f)
 
 ### Identifying resources
 
