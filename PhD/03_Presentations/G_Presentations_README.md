@@ -1,4 +1,4 @@
-2024-12-10
+2025-05-12
 
 # Guide README of 'Presentations' folder
 
@@ -18,13 +18,17 @@ In here you find the following parts / folders:
 │       ├── 01_Figures/
 │       ├── 02_OtherResources/
 │       └── zzz/
+│   └── YYYY-MM-DD_Talk/
+│       ├── 01_Figures/
+│       ├── 02_OtherResources/
+│       └── zzz/
 ├── 03_Retreats/
 ├── 04_Illustrations/
-│   ├── 01_Foreign/
-│   └── 02_Own/
+│   ├── 01_ThirdParty/
+│   └── 02_SelfCreated/
 ├── G_Presentations_README.md
 ├── M_Presentation_Metadata.md
-└── YYYY-MM-DD_Presentation.zip
+└── YYYY-MM-DD_PresentationPosterTalk.zip
 
 ```
 
@@ -55,15 +59,15 @@ Generally, you can cite illustrations just like any other source, e.g. in author
 You can publish your presentations and posters via several **routes**: for example as supplement to an article, as part of conference proceedings, in a repository, or on a personal website.
 
 Before you can publish, you need to **consider**:
-* Do you own the **copyright**? Do you have, if necessary, **permission** to publish other people's work within your? Are there institutional **policies** regarding publications?
-* Make your published work as FAIR as possible: get a DOI, publish where your target audience is, use file formats to allow easy access,  cite your work wherever appropriate.
+* Do you own the **copyright**? Do you have, if necessary, **permission** to publish other people's work within yours? Are there institutional **policies** regarding publications?
+* Make your published work as FAIR as possible: get a DOI, publish where your target audience is, describe your work with a short summary and keywords, use file formats to allow easy access,  cite your work wherever appropriate.
 * Double check for content, quality, clarity, proper citing.
 * Consider publishing under Open Access.
 
 
 ## Further Reading
 * Naegle (2021). **Ten simple rules for effective presentation slides**. PLoS Comput Biol. 17(12):e1009554. [https://doi.org/10.1371%2Fjournal.pcbi.1009554](https://doi.org/10.1371%2Fjournal.pcbi.1009554). PMID: 34855746
-* [https://ecampusontario.pressbooks.pub/scientificcommunication/chapter/poster-presentations/](https://ecampusontario.pressbooks.pub/scientificcommunication/chapter/poster-presentations/)
+* Bongers & Macartney (2020). **Principles of Scientific Communication. Chapter 21, Poster Presentations**. Licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). Website: [https://ecampusontario.pressbooks.pub/scientificcommunication/chapter/poster-presentations/](https://ecampusontario.pressbooks.pub/scientificcommunication/chapter/poster-presentations/)
 
 
 _____
