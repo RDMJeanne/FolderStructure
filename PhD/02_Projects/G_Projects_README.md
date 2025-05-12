@@ -1,4 +1,4 @@
-2024-12-10
+2025-05-12
 
 
 # Guide README of 'Projects' folder
@@ -10,21 +10,23 @@ In here you find the following parts / folders:
 ```
 02_Projects/
 ├── 01_Protocols/
+├── G_Protocols_README.md
 ├── 02_Collaborations/
 │   ├── Collab_Overview.md
-│   ├── 01_PARTNER_project/
+│   ├── 01_PARTNER_ProjectX/
 │   │   ├── 01_Protocols/
 │   │   ├── 02_Data/
 │   │   │   ├── 01_Raw/
 │   │   │   ├── 02_Processed/
 │   │   │   └── M_Data_README.md
 │   │   ├── 03_Code/
+│   │   │   ├── G_Code_README.md
+│   │   │   └── M_Code_README.md
 │   │   ├── 04_Results/
-│   │   └── M_PARTNER_project_README.md
-│   ├── 00_PARTNER_project.zip
+│   │   └── M_PARTNER_ProjectX_README.md
+│   ├── 00_PARTNER_ProjectX.zip
 │   └── zzz_from-joe/
 ├── 03_ProjectX/
-│   ├── M_ProjextX_README.md
 │   ├── YYYY-MM-DD_ExperimentX/
 │   │   ├── 01_Protocols/
 │   │   ├── 02_Data/
@@ -32,11 +34,14 @@ In here you find the following parts / folders:
 │   │   │   ├── 02_Processed/
 │   │   │   └── M_Data_README.md
 │   │   ├── 03_Code/
+│   │   │   ├── G_Code_README.md
+│   │   │   └── M_Code_README.md
 │   │   ├── 04_Results/
 │   │   └── M_ExperimentX_README.md
-│   └── YYYY-MM-DD_ExperimentX.zip
-├── G_Project_README.md
-└── 00_ProjectX.zip
+│   ├── YYYY-MM-DD_ExperimentX.zip
+│   └── M_ProjextX_README.md
+├── 00_ProjectX.zip
+└── G_Project_README.md
 
 ```
 
@@ -99,8 +104,8 @@ Together with demands of processing and understandability, this calls for making
 * One cell per value
 
 More information:
-* Broman KW & Woo KH (2018) Data Organization in Spreadsheets, The American Statistician, 72:1, 2-10 [https://doi.org/10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989)
-* Grolemund G & Wickham H. 2017. R for Data Science. O’Reilly Media. [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
+* Broman KW & Woo KH (2018) **Data Organization in Spreadsheets**, The American Statistician, 72:1, 2-10 [https://doi.org/10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989)
+* Grolemund G & Wickham H. 2017. **R for Data Science**. O’Reilly Media. [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
 
 ### Protocols and Research Resource Identifiers
 
@@ -118,8 +123,8 @@ When you have written your code and published a narrative paper describing or us
 ## Further Reading
 
 ### Project Management
-* Levin & Levin (2019) Managing Ideas, People, and Projects: Organizational Tools and Strategies for Researchers. iScience. 20:278-291. [https://doi.org/10.1016%2Fj.isci.2019.09.017](https://doi.org/10.1016%2Fj.isci.2019.09.017).
-* Commonwealth Scholarship Commission in the UK (CSC)(2021) Research Project Management: Project management principles and practical tips. PDF [https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf](https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf)
+* Levin & Levin (2019) **Managing Ideas, People, and Projects: Organizational Tools and Strategies for Researchers**. iScience. 20:278-291. [https://doi.org/10.1016%2Fj.isci.2019.09.017](https://doi.org/10.1016%2Fj.isci.2019.09.017).
+* Commonwealth Scholarship Commission in the UK (CSC)(2021) **Research Project Management: Project management principles and practical tips**. PDF [https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf](https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf)
 
 _____
 
@@ -127,9 +132,3 @@ This file is part of the PhD Folder Structure project by Yasmin Demerdash (<a hr
 
 * git: [https://github.com/RDMJeanne/FolderStructure](https://github.com/RDMJeanne/FolderStructure)
 
----
-### todo
-
-* rename PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/G_Code_REAMDE -> PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/G_Code_README
-* rename /PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/G_Code_REAMDE.md -> /PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/G_Code_README.md
-* 
