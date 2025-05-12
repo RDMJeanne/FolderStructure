@@ -72,13 +72,13 @@ It may be possible (please check beforehand!) to provide a **link to your living
 * RDMO: [https://rdmorganiser.github.io](https://rdmorganiser.github.io)
 
 ### Software Management Plans (SMPs)
-* Martinez-Ortiz et al. (2023). Practical guide to Software Management Plans (1.1). Zenodo. [https://zenodo.org/doi/10.5281/zenodo.7038280](https://zenodo.org/doi/10.5281/zenodo.7038280)
-* Software Sustainability Institute: SMPs: [https://www.software.ac.uk/news/software-management-plans](https://www.software.ac.uk/news/software-management-plans)
-* The Software Sustainability Institute. (2018). Checklist for a Software Management Plan (1.0). Zenodo. [https://doi.org/10.5281/zenodo.2159713](https://doi.org/10.5281/zenodo.2159713)
-* Maastricht University. (2023) Template-Software-Management-Plan-2023.docx. [https://documents.library.maastrichtuniversity.nl/open/6402486e-d88c-4ecb-9f2f-c257bf245f0c](https://documents.library.maastrichtuniversity.nl/open/6402486e-d88c-4ecb-9f2f-c257bf245f0c) 
-* Chue, … RDA FAIR4RS WG. (2022). FAIR Principles for Research Software (FAIR4RS Principles) (1.0). Zenodo. [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068) 
+* Martinez-Ortiz et al. (2023). **Practical guide to Software Management Plans** (1.1). *Zenodo*. [https://zenodo.org/doi/10.5281/zenodo.7038280](https://zenodo.org/doi/10.5281/zenodo.7038280)
+* Software Sustainability Institute: **SMPs**: [https://www.software.ac.uk/news/software-management-plans](https://www.software.ac.uk/news/software-management-plans)
+* The Software Sustainability Institute. (2018). **Checklist for a Software Management Plan** (1.0). *Zenodo*. [https://doi.org/10.5281/zenodo.2159713](https://doi.org/10.5281/zenodo.2159713)
+* Maastricht University. (2023) **Template-Software-Management-Plan-2023.doc**x. [https://documents.library.maastrichtuniversity.nl/open/6402486e-d88c-4ecb-9f2f-c257bf245f0c](https://documents.library.maastrichtuniversity.nl/open/6402486e-d88c-4ecb-9f2f-c257bf245f0c) 
+* Chue, … RDA FAIR4RS WG. (2022). **FAIR Principles for Research Software (FAIR4RS Principles)** (1.0). *Zenodo*. [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068) 
 * Research Software Directory: [https://research-software-directory.org/](https://research-software-directory.org/) 
-* The Turing Way on Reproducible Research, Pathway Research Software Engineers: [https://book.the-turing-way.org/research-software-engineers](https://book.the-turing-way.org/research-software-engineers) 
+* The Turing Way on Reproducible Research, **Pathway Research Software Engineers**: [https://book.the-turing-way.org/research-software-engineers](https://book.the-turing-way.org/research-software-engineers) 
 
 
 _____
