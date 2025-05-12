@@ -53,7 +53,7 @@ If you include any **numbers** (e.g., as an ID), consider left-padding / leading
 As an alternative/complementary **approach** to file and folder naming, you can consider the "Johnny Decimal" system of structuring files in folders: [https://johnnydecimal.com/](https://johnnydecimal.com/)
 
 **More information**:
-* [https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
+* CESSDA RDM Expert Guide on Folder Structure: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
 
 
 ### Get an ORCID <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>
@@ -77,7 +77,7 @@ A good backup strategy (also if you have to implement it yourself) follows the 3
 * Have at least **1** of your three copies **in a physically different location** / building (geo-redundancy).
 
 **More information**:
-* [https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Backup](https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Backup)
+* CESSDA RDM Expert Guide on Backups: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Backup](https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Backup)
 
 ### Data Management Plan
 
@@ -86,7 +86,7 @@ Note that a DMP can serve as one way of documenting your RDM measures, like file
 Throughout your progress, revisit the plan often for guidance and to update it when your data management strategies change.
 
 **More information**:
-* [https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1)
+* CESSDA RDM Expert Guide on DMPs: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1)
 * Practical Guide to [...] RDM—Extended Ed. (incl. DMP criteria): [https://doi.org/10.5281/zenodo.4915861](https://doi.org/10.5281/zenodo.4915861) 
 
 
