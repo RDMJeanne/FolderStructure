@@ -1,4 +1,5 @@
-2024-12-10
+2025-05-12
+
 # Guide README of 'Code' folder
 
 ## Structure and Scheme
@@ -16,30 +17,35 @@ Feel free to adapt this structure to your specific needs and workflow.
 
 ## Best Practice Recommendations
 
+Informatics and Bioinformatics workflows and the associated scripts and tools require dedicated care and documentation. For these tasks, many resources are available and we suggest to use the here provdied (non-exhaustive) best practices and reading recommendations as a **starting pad** for you to inform yourself. Asking your peers and experts is part of these best practices.
+
 ### Code Structure and Organization
 
-- Use a consistent directory structure for storing code, data, and documentation with a descriptive naming convention of code snippets in separate files
-- Use community-established coding standards and guidelines
-- "Keep Raw Data Raw!" - consider your raw data as immutable; never change raw data by code execution
-- Use version control systems (e.g., [Git](https://git-scm.com/)) to track changes and a web-interface (e.g. [github](https://github.com/) or [gitlab](https://about.gitlab.com/)) collaborate with others
-- Consider containerization (e.g., [Docker](https://www.docker.com/)) engaging reproducibility and consistency
-- Consider web-based interactive computing platforms (e.g., [Jupyter Notebooks](https://jupyter.org/)) for documenting, coding, visualization and public sharing on [Binder](https://jupyter.org/binder)
+- Use a **consistent directory structure** for storing code, data, and documentation with a descriptive naming convention of code snippets in separate files
+- Use community-established **coding standards** and guidelines
+- "**Keep Raw Data Raw!**" - consider your raw data as immutable; never change raw data by code execution
+- Use **version control** systems (e.g., [Git](https://git-scm.com/)) to track changes and a web-interface (e.g. [github](https://github.com/) or [gitlab](https://about.gitlab.com/)) collaborate with others
+- Consider **containerization** (e.g., [Docker](https://www.docker.com/)) engaging reproducibility and consistency
+- Consider **web-based interactive computing platforms** (e.g., [Jupyter Notebooks](https://jupyter.org/)) for documenting, coding, visualization and public sharing on [Binder](https://jupyter.org/binder)
 
 ### Code Documentation and Comments
 
-- Use comments to explain code functionality, logic, and purpose
-- Provide ReadMe files for installation, requirements, and usage
-- Use metadata [M_Code_README](/PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/M_Code_README.md) to describe code, such as title, author, and license.
+- Use **comments** to explain code functionality, logic, and purpose
+- Provide **ReadMe** files for installation, requirements, and usage
+- Use **metadata** [M_Code_README.md](/PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/M_Code_README.md) to describe code, such as title, author, and license.
+
+
 ### Code Sharing and Licensing
 
-- Consider sharing code through public platforms like [github](https://github.com/) or [gitlab](https://about.gitlab.com/)
-- Choose an open-source license that allows others to use, modify, and distribute the code, see [Choose-A-License](https://choosealicense.com)
-- Consider assigning a persistent identifier to the code e.g. DOI on a public repository like [Zenodo](https://zenodo.org/)
+- Consider **sharing** code through public platforms like [github](https://github.com/) or [gitlab](https://about.gitlab.com/)
+- Choose an open-source **license** that allows others to use, modify, and distribute the code, see [Choose-A-License](https://choosealicense.com)
+- Consider assigning a **persistent identifier** to the code e.g. DOI on a public repository like [Zenodo](https://zenodo.org/)
 
 ## Further Reading
 
 * Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017). **Good enough practices in scientific computing.** PLoS Comput Biol 13(6): e1005510. DOI [10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510)
-* The Turing Way Community. (2024, December 10). [The Turing Way: A handbook for reproducible, ethical and collaborative research.](https://book.the-turing-way.org/reproducible-research/reproducible-research); DOI: [10.5281/zenodo.7625728](https://doi.org/10.5281/zenodo.7625728)
+* The Turing Way Community. (2024). [**The Turing Way: A handbook for reproducible, ethical and collaborative research**.](https://book.the-turing-way.org/reproducible-research/reproducible-research); DOI: [10.5281/zenodo.7625728](https://doi.org/10.5281/zenodo.7625728)
+
 
 _____
 
