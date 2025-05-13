@@ -57,9 +57,6 @@ In the early stage of the research, the Data Management Plan (DMP) should be cre
 Documenting the progress of your research help you to keep track on the research process. Meeting minutes and meeting notes shared along the research group provide informations about the commitments, to-do-tasks, and common frame of reference. Using templates or mind mapping tools captures all information a clear and concise manner and facilitates the retrieval of important aspects in the research.
 
 
-### Overview over literature
-
-
 ## Further Reading
 
 * Research data: https://www.openaire.eu/how-do-i-know-if-my-research-data-is-protected
