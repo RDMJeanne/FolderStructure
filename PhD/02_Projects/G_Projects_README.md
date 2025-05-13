@@ -116,7 +116,7 @@ When describing used **ingredients**, or when listing used **resources**, **cell
 
 ### Code on GitHub: Get a DOI from Zenodo
 
-**Writing software** / code / scripts for research is a whole realm of best practices on its own. As a **first pointer** in this direction, please refer to this article: Wilson et al. (2014) Best Practices for Scientific Computing. PLoS Biol 12(1): e1001745. [https://doi.org/10.1371/journal.pbio.1001745](https://doi.org/10.1371/journal.pbio.1001745)
+**Writing software** / code / scripts for research is a whole realm of best practices on its own. As a **first pointer** in this direction, please refer to this article: Wilson et al. (2014) **Best Practices for Scientific Computing**. PLoS Biol 12(1): e1001745. [https://doi.org/10.1371/journal.pbio.1001745](https://doi.org/10.1371/journal.pbio.1001745)
 
 When you have written your code and published a narrative paper describing or using it, it is strongly recommended to **provide** not only a URL link to the code repository (e.g., a simple github link), but to acquire and transmit a **permanent identifier, i.e. a DOI**. The generic repository Zenodo ([https://zenodo.org/](https://zenodo.org/)) allows to receive DOIs for github repositories: [https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 
