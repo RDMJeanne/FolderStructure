@@ -44,7 +44,7 @@ Make sure to label your files and folders with meaningful names. Names should be
 * consistently used
 * human- & machine-readable
 * consisting only of alphanumeric characters (no special characters like parentheses, umlauts, colons, spaces, whitespaces etc.)
-* abbreviations should be documented in a dictionary
+* abbreviations should be documented in a dictionary (as in abbreviation and long form in a list)
 
 If you include a **date**, make sure to follow [ISO 8601](https://www.iso.org/obp/ui/en/#iso:std:iso:8601:-1:ed-1:v1:en:term:3.1.3.1), i.e., year first, then month, then day: YYYY-MM-DD or YYYYMMDD ensuring chronological sorting.
 
