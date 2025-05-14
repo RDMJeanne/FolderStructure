@@ -111,10 +111,6 @@ More information:
 
 Some care should be given if the research deals with personal data with “any information relating to an identified or identifiable natural person...”, see the [European General Data Protection Regulation](https://gdpr-info.eu). Direct identifiers should be replaced by pseudonyms or the data should be made anonymous also obeying data minimization. Your institute/faculty or ethics board can give advice of regulations you have to adhere.
 
-### Copyright
-
-Researchers should be aware of copyright laws and licenses in context of research data and metadata in their institute or country. These licences state how to use, share, and deposit data in repositories or other platforms. In the most cases, machine-generated raw research data is not considered to hold any copyright. Further processed secondary data may be subject to copyright protection if is original or creative. Every researcher should provide at least a license for published data to indicate and promote the re-use of the data.
-
 
 ### Protocols and Research Resource Identifiers
 

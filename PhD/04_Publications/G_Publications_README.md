@@ -107,6 +107,11 @@ How to choose a repository is detailed in this guide: Whyte, A.. (2015). **Where
 Published data can and should be cited, thereby enhancing the visibility and impact of the publishing researchers: Silvello (2018). **Theory and practice of data citation**. Journal of the Association for Information Science and Technology, 69: 6-20. [https://doi.org/10.1002/asi.23917](https://doi.org/10.1002/asi.23917)
 
 
+### Copyright
+
+Researchers should be aware of copyright laws and licenses in context of research data and metadata in their institute or country. These licences state how to use, share, and deposit data in repositories or other platforms. In the most cases, machine-generated raw research data is not considered to hold any copyright. Further processed secondary data may be subject to copyright protection if is original or creative. Every researcher should provide at least a license for published data to indicate and promote the re-use of the data.
+
+
 ## Further Reading
 
 ### On Writing
