@@ -107,6 +107,15 @@ More information:
 * Broman KW & Woo KH (2018) **Data Organization in Spreadsheets**, The American Statistician, 72:1, 2-10 [https://doi.org/10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989)
 * Grolemund G & Wickham H. 2017. **R for Data Science**. O’Reilly Media. [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
 
+### Keep private resesarch data private
+
+Some care should be given if the research deals with personal data with “any information relating to an identified or identifiable natural person...”, see the [European General Data Protection Regulation](https://gdpr-info.eu). Direct identifiers should be replaced by pseudonyms or the data should be made anonymous also obeying data minimization. Your institute/faculty or ethics board can give advice of regulations you have to adhere.
+
+### Copyright
+
+Researchers should be aware of copyright laws and licenses in context of research data and metadata in their institute or country. These licences state how to use, share, and deposit data in repositories or other platforms. In the most cases, machine-generated raw research data is not considered to hold any copyright. Further processed secondary data may be subject to copyright protection if is original or creative. Every researcher should provide at least a license for published data to indicate and promote the re-use of the data.
+
+
 ### Protocols and Research Resource Identifiers
 
 When describing **experimental procedures** it may be helpful to check whether an appropriate protocol is already publicly avilable - or if not, it is a good idea to publish your own (receiving a DOI and a citable research output). The most relevant **repository** for protocols, checklists, workflows, and similar in the life science is [https://www.protocols.io/](https://www.protocols.io/). Some ELNs provide an interface for quick implementation and adaption of published protocols.
