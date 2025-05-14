@@ -27,6 +27,7 @@ Feel free to adapt this structure to your specific needs and workflow.
 ## Best Practice Recommendations
 
 ### Start early
+
 Although it is conceivable and normal that you cannot answer all questions posed in a Data Management Plan (DMP), it helps you research data management (RDM) and overall workflow if you think about them. Keeping in mind which kinds of considerations and tasks will come up in the course of a project helps to **avoid obvious obstacles**. This can include, e.g., allocating money for storage space; talking about the responsibility to keep data accessible; formatting a dataset according to repository / journal requirements.
 
 ### Living document and guide for your RDM
