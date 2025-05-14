@@ -20,8 +20,7 @@ In here you find the following parts / folders:
 │   ├── ReadPaperTemplate.pdf
 │   └── ReadPaper_README.md
 ├── 05_Courses/
-│   ├── YYYY_Year1/
-│   └── YYYY_Year2/
+│   └── YYYY_Title/
 └── G_Documents_README.md
 ```
 
