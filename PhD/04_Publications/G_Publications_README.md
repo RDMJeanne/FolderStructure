@@ -112,6 +112,11 @@ Published data can and should be cited, thereby enhancing the visibility and imp
 Researchers should be aware of copyright laws and licenses in context of research data and metadata in their institute or country. These licences state how to use, share, and deposit data in repositories or other platforms. In the most cases, machine-generated raw research data is not considered to hold any copyright. Further processed secondary data may be subject to copyright protection if is original or creative. Every researcher should provide at least a license for published data to indicate and promote the re-use of the data.
 
 
+### References
+
+The “Drafts” subfolder is also the place to store at least a list of references. Keep the references linked to the reference manager (e.g. [Zotero](https://www.zotero.org/), [Mendeley](https://www.mendeley.com/), or [JabRef](https://www.jabref.org/)) until at least the submission. You should link or save the data from your reference manager (e.g., BibTeX export for Zotero) in the same folder. When using reference managers, describe their use in a README file and save a .bib export of the bibliography in the manuscript folder. 
+
+
 ## Further Reading
 
 ### On Writing
