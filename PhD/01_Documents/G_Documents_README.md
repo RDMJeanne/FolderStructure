@@ -26,7 +26,7 @@ In here you find the following parts / folders:
 
 | Part         		| Purpose / Content   |
 |----------		|-----------|
-| 1. Personal 		| Personal files related to your work (which do not fit any other category).|
+| 1. Personal 		| Personal files related to your work (which do not fit any other category). For example: certificates, CVs, mail archive.|
 | 2. Administrative | Contains files related to contracts, invoices, travel applications, ... Also the place for your PhD's data management plan (DMP) and related information. |
 | 3. Notes 	| The place for your own research notes, as well as meeting notes with colleagues or your committee. |
 | 4. Literature 		| The place to store papers related to your work. Although your literature management tool might provide cloud storage, this can have too little space and/or suffer when you migrate between operating environments. |
