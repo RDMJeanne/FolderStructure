@@ -85,6 +85,8 @@ The ideal project start also comes with the start of a data management plan (DMP
 Note that a DMP can serve as one way of documenting your RDM measures, like file naming schemes, etc.
 Throughout your progress, revisit the plan often for guidance and to update it when your data management strategies change.
 
+This template provides dedicated guidance for DMPs: [G_DMP_README](/PhD/01_Documents/02_Administrative/01_DMP/G_DMP_README.md) in the 01_Documents/02_Administrative/01_DMP/ folder.
+
 **More information**:
 * CESSDA RDM Expert Guide on DMPs: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1)
 * Practical Guide to [...] RDM—Extended Ed. (incl. DMP criteria): [https://doi.org/10.5281/zenodo.4915861](https://doi.org/10.5281/zenodo.4915861) 
