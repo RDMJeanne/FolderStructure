@@ -33,6 +33,7 @@ Informatics and Bioinformatics workflows and the associated scripts and tools re
 - Use **comments** to explain code functionality, logic, and purpose
 - Provide **ReadMe** files for installation, requirements, and usage
 - Use **metadata** [M_Code_README.md](/PhD/02_Projects/03_ProjectX/YYYYMMDD_ExperimentX/03_Code/M_Code_README.md) to describe code, such as title, author, and license.
+- Lee BD (2018) **Ten simple rules for documenting scientific software**. PLoS Comput Biol 14(12): e1006561. [https://doi.org/10.1371/journal.pcbi.1006561](https://doi.org/10.1371/journal.pcbi.1006561)
 
 
 ### Code Sharing and Licensing
