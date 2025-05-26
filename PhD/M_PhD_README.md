@@ -1,6 +1,6 @@
 # Title
-Paper/Project/Thesis  
-(The name given to the paper/project/thesis.)
+Thesis  
+(The name given to the thesis.)
 
 # Creator
 Jay Doe  
@@ -14,25 +14,39 @@ Jay Doe
 jaydoe@domain.edu  
 (email identifier of the Creator)
 
-# Publisher
+# University
 Institute of Fancy Science  
 Department of Amazing Science  
 Imaginary Street 42  
 D-01234 ImaginaryTown  
 Country  
-(The department/institute responsible for making the resource availableresponsible in which the resource have been created.)  
+(The department/institute in which the resource have been created.)  
 
-# Contributor
+# Supervisor
 Kay Roe  
-(Who contributed to the resource and is secondary to Creators? Can be a repetitive list of persons, organizations, or services.)
+(Who is supervising the thesis? Can be a repetitive list of persons, organizations, or services.)
 
-# Contributor.ORCID
+# Supervisor.ORCID
 9876-5432-0001-0000  
-(ORCID identifier of the Contributor)
+(ORCID identifier of the supervisor)
 
-# Contributor.Email
+# Supervisor.Email
 kayroe@niamod.edu  
-(Email identifier of the Contributor)
+(Email identifier of the supervisor)
+
+
+# CommitteeMember
+Kay Roe  
+(Who is a member of the thesis committee? Can be a repetitive list of persons, organizations, or services.)
+
+# CommitteeMember.ORCID
+9876-5432-0001-0000  
+(ORCID identifier of the CommitteeMember)
+
+# CommitteeMember.Email
+kayroe@niamod.edu  
+(Email identifier of the CommitteeMember)
+
 
 # Description
 Exemplary test case to verify the simulation tools and compare to the experiment.  
@@ -47,25 +61,12 @@ Data have been published at Zenodo under CC-BY 4.0, see https://zenodo.org/doi/1
 
 # Date
 2024-07-01  
-(A date associated with the creation or availability of the resource. Recommended format: YYYY-MM-DD)
+(The deadline to which you want to submit your thesis. Recommended format: YYYY-MM-DD)
 
 # Language
 en-US; de-DE  
 (The language of the resource recommended as [BCP 47 language tag](https://doi.org/10.17487/RFC5646).)
 
-# Format
-* csv
-* docx
-* pdf
-* (The data format to identify the software and possibly hardware that
-  might be needed to display or operate the resource.
-  For a list of MIME types see [here](https://www.iana.org/assignments/media-types/media-types.xhtml)).
-
-# Method
-Method01XYZ hasURL https://github.com/FakeUser/FakeProject/releases/tag/v1.0  
-Method01XYZ hasDependency https://github.com/FakeProjectDependsOn/releases/tag/v2.2.2  
-Method01XYZ hasDOI https://doi.org/10.5281/zenodo.ZYX  
-(Refer to your (post-)processing tools/methods, e.g. URL or git hash)
 
 # Type
 Text  
@@ -77,13 +78,13 @@ Text
 
 # Source
 PhD-Thesis IsPartOf https://doi.org/10.5281/zenodo.ABC  
-(Information about a second resource from which the present resource is derived - if applicable.)
+(Information about a second resource from which the present resource is derived - if applicable. May be a larger project or graduate school.)
 
 # Relation
 Experiment IsPartOf PhD-Thesis  
 PhD-Thesis IsReferencedBy https://doi.org/10.5281/DOI.OF.PAPER  
 (An identifier to provide a relationship from source to the present resource,  
-e.g. IsVersionOf, IsReplacedBy, IsPartOf, IsReferencedBy, see [Qualified Dublin Core Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/))
+e.g. IsVersionOf, IsReplacedBy, IsPartOf, IsReferencedBy, see [Qualified Dublin Core Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). May also relate to the work of a fellow PhD candiate if your work is strongly connected.)
 
 # Identifier
 https://doi.org/10.5281/zenodo.PUBLISHED_THESIS  
