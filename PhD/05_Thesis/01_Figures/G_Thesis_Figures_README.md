@@ -1,4 +1,4 @@
-2025-03-17
+2025-05-28
 
 
 # Guide README of 'Thesis/Figures' folder
@@ -36,7 +36,7 @@ Metadata READMEs are denoted with a "M_" starting the file name. They are used t
 
 | Metadata README                                                                          | Purpose / Content                                                                             |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [M_FigX_README.md](/PhD/05_Thesis/01_Figures/FigX/M_FigX_README.md) | Copy and fill in information on figures used in publications          |
+| [M_Fig1_README.md](/PhD/05_Thesis/01_Figures/Fig1/M_Fig1_README.md) | Copy and fill in information on figures used in publications          |
 
 
 ## Best Practice Recommendations
