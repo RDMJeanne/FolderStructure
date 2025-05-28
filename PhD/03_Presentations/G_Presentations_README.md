@@ -42,6 +42,8 @@ In here you find the following parts / folders:
 
 Feel free to adapt this structure to your specific needs and workflow.
 
+The [M_Presentations_README.md] differs from many other metadata recording templates; it is for your personal overview and less for sharing it together with your data like the others.
+
 
 ## Best Practice Recommendations
 
