@@ -132,7 +132,7 @@ When you have written your code and published a narrative paper describing or us
 
 ### Project Management
 * Levin & Levin (2019) **Managing Ideas, People, and Projects: Organizational Tools and Strategies for Researchers**. iScience. 20:278-291. [https://doi.org/10.1016%2Fj.isci.2019.09.017](https://doi.org/10.1016%2Fj.isci.2019.09.017).
-* Commonwealth Scholarship Commission in the UK (CSC)(2021) **Research Project Management: Project management principles and practical tips**. PDF [https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf](https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf)
+* Commonwealth Scholarship Commission in the UK (CSC)(2021) **Research Project Management: Project management principles and practical tips**. (PDF) Last accessed: 2025-05-28. [https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf](https://cscuk.fcdo.gov.uk/wp-content/uploads/2021/09/Research-project-management-full-slides.pdf)
 
 _____
 
