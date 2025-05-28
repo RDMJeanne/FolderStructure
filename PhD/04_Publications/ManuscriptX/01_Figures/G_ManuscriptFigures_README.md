@@ -1,4 +1,4 @@
-2025-05-12
+2025-05-28
 
 
 # Guide README of 'Manuscript/Figures' folder
@@ -44,7 +44,7 @@ Metadata READMEs are denoted with a "M_" starting the file name. They are used t
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [M_Fig1A_README.md](/PhD/04_Publications/ManuscriptX/01_Figures/Fig1A/M_Fig1A_README.md) | Copy and fill in information on figures used in publications          |
 | [M_SFigX_README.md](/PhD/04_Publications/ManuscriptX/01_Figures/SFigX/M_SFigX_README.md) | Copy and fill in information on supplementary figures used in publications|
-| [M_FigX_README.md](/PhD/04_Publications/ManuscriptX/01_Figures/FigX/M_FigX_README.md)    | Generic templates for metadata of figures in publications                 |
+
 
 
 ## Best Practice Recommendations
