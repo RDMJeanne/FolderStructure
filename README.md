@@ -121,7 +121,7 @@ Guidance READMEs are denoted with a "G_" starting the file name. They provide an
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [G_PhD_README](/PhD/G_PhD_README.md)                                                                    | The **main** guidance README of your project as entry point, including general best practices.         |
 | [G_Documents_README](/PhD/01_Documents/G_Documents_README.md)                                           | Explains the administrative documents folder.                               |
-| [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md)                               | Information on Data Management Plans.                        |
+| [G_DMP_README](/PhD/01_Documents/02_Administrative/01_DMP/G_DMP_README.md)                               | Information on Data Management Plans.                        |
 | [G_Projects_README](/PhD/02_Projects/G_Projects_README.md)                                              | Tips on projects, documentation, and tidy data.                           |
 | [G_Protocols_README](/PhD/02_Projects/01_Protocols/G_Protocols_README.md)                               | Pointers about the documentation of lab work, including ontologies, resource IDs and ELNs.                  |
 | [G_Code_README](/PhD/02_Projects/02_Collaborations/01_PARTNER_ProjectX/03_Code/G_Code_README.md)        | Recommendations on source code development.                    |
