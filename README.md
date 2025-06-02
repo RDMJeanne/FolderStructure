@@ -1,4 +1,4 @@
-2025-05-28
+2025-06-02
 
 # PhD Project Folder Template for the Life Sciences
 
@@ -379,12 +379,12 @@ ____
 
 ### Feedback
 
-* Is very welcome!
+* Is very welcome! Just create a new [issue](https://github.com/RDMJeanne/FolderStructure/issues)!
 * As are use cases - show us how you use it!
 
 ### How to cite
 
-This project is licensed unter XXX and YYY and made public available free of charge. The project can be distributed, used, or modified in any way without acknowledgement of the original authors. If you find the resource useful and need citation in academic context, please use the following:  
+This project is licensed under [CC0 v1.0 Universal](https://github.com/RDMJeanne/FolderStructure/blob/main/LICENSE) and made public available free of charge. The project can be distributed, used, or modified in any way without acknowledgement of the original authors. If you find the resource useful and need citation in academic context, please use the following:  
 * Files / Project: Demerdash Y, Dockhorn R, Wilbrandt J (YEAR) **PhD Project Folder Template for the Life Sciences**. Zenodo, DOI:
 * Paper: Demerdash Y, Dockhorn R, Wilbrandt J (YEAR) **Data Organization Made Easy: Comprehensive Folder Structure Template for Early Career Life/Natural Science Researchers**. *Journal*, DOI:
 
