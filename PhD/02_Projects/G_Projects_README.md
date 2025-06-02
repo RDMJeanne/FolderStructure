@@ -1,4 +1,4 @@
-2025-05-12
+2025-06-02
 
 
 # Guide README of 'Projects' folder
@@ -84,7 +84,7 @@ The most common are (more information: [https://datamanagement.hms.harvard.edu/c
 
 When working with code / software, log files can help with automated documentation.
 
-Although often seen as pure formalitiy for grant proposals, **Data Management Plans** (DMPs) can also serve as a central documentation hub, see also [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md). Further information: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1) 
+Although often seen as pure formalitiy for grant proposals, **Data Management Plans** (DMPs) can also serve as a central documentation hub, see also [G_DMP_README](/PhD/01_Documents/02_Administrative/01_DMP/G_DMP_README.md). Further information: [https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1) 
 
 It is recommended to use established **metadata standards** / schemas wherever possible. More information: [https://fairsharing.org/](https://fairsharing.org/). This ensures that all (minimally) relevant metadata is captured.
 
