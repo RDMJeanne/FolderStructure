@@ -1,4 +1,4 @@
-2024-12-09
+2025-06-02
 
 # Guide README of 'Documents' folder
 
@@ -45,7 +45,7 @@ Personal data like names and addresses as well as photos should not be shared wi
 
 ### Writing a Data Management Plan
 
-In the early stage of the research, the Data Management Plan (DMP) should be created, see [G_DMP_README](/PhD/01_Documents/02_Adminstrative/01_DMP/G_DMP_README.md). The DMP give advice how to structure, store, and share research data within the project duration and outlines the policies and procedures of funding agencies.
+In the early stage of the research, the Data Management Plan (DMP) should be created, see [G_DMP_README](/PhD/01_Documents/02_Administrative/01_DMP/G_DMP_README.md). The DMP give advice how to structure, store, and share research data within the project duration and outlines the policies and procedures of funding agencies.
 
 
 ### Keeping notes
