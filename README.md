@@ -22,7 +22,7 @@ This folder structure helps to stay organized during thesis and research. It con
 ## Aim
 
 This folder structure is intended to support individual **research data management practices** related to your PhD. Your PhD may comprise multiple projects, experiments, and / or methods, which is mirrored in the structure. Researchers from other disciplines and stages are also very welcome to use and adapt the template according to their needs.
-Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at the section **[References for RDM](##References)**. For easy-to-read and easy-to-write experience we use [Markdown](https://daringfireball.net/projects/markdown/) (\*.md) files enriching plain text documents with some formatting syntax. 
+Additionally, we attempted to include as much **best practice and advice** as possible **implicitly and explicitly** to help you stay organised during your journey. If you would like to read more about research data management best practices, please have a look at the section **[References for RDM](#references)**. For easy-to-read and easy-to-write experience we use [Markdown](https://daringfireball.net/projects/markdown/) (\*.md) files enriching plain text documents with some formatting syntax. 
 
 The folder structure aims to be:
 
