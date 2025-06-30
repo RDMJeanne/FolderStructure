@@ -25,7 +25,7 @@ An Electronic Lab Notebook (ELN) is software tool that aims to replace tradition
 Using an ELN has several advantages over a paperwise lab notebook, e.g.,
 * no handwriting illegibility issues
 * full text search
-* linking to data, files, and images, as well as external resources is possible withouzt media break
+* linking to data, files, and images, as well as external resources is possible without media break
 * data security through backups
 * complete audit trail
 * collaboration
