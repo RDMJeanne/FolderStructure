@@ -1,4 +1,6 @@
-2025-06-02
+2025-07-08
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15835125.svg)](https://doi.org/10.5281/zenodo.15835125)
 
 # PhD Project Folder Template for the Life Sciences
 
