@@ -1,6 +1,7 @@
 2025-07-08
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15835125.svg)](https://doi.org/10.5281/zenodo.15835125)
+Paper: [DOI: 10.5334/dsj-2025-035](https://doi.org/10.5334/dsj-2025-035)
 
 # PhD Project Folder Template for the Life Sciences
 
@@ -368,7 +369,7 @@ ____
 ## This Project
 
 * Git address: [https://github.com/RDMJeanne/FolderStructure](https://github.com/RDMJeanne/FolderStructure)
-* Paper DOI
+* Paper: [DOI: 10.5334/dsj-2025-035](https://doi.org/10.5334/dsj-2025-035)
 
 ### Contributors
 
